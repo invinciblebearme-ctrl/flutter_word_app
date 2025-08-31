@@ -1,0 +1,52 @@
+[
+  {
+    "en": "a",
+    "ko": "하나의",
+    "img": "images/a.png"
+  },
+  {
+    "en": "about",
+    "ko": "~에 대하여",
+    "img": "images/about.png"
+  },
+  {
+    "en": "above",
+    "ko": "~위에",
+    "img": "images/above.png"
+  },
+  {
+    "en": "across",
+    "ko": "~을 가로질러",
+    "img": "images/across.png"
+  },
+  {
+    "en": "act",
+    "ko": "행동하다",
+    "img": "images/act.png"
+  },
+  {
+    "en": "action",
+    "ko": "행동",
+    "img": "images/action.png"
+  },
+  {
+    "en": "active",
+    "ko": "활동적인",
+    "img": "images/active.png"
+  },
+  {
+    "en": "actor",
+    "ko": "배우",
+    "img": "images/actor.png"
+  },
+  {
+    "en": "actress",
+    "ko": "여배우",
+    "img": "images/actress.png"
+  },
+  {
+    "en": "adult",
+    "ko": "어른",
+    "img": "images/adult.png"
+  }
+]

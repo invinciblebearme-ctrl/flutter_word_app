@@ -1,0 +1,482 @@
+[
+  {
+    "round": 1,
+    "en": "a",
+    "ko": "",
+    "img": "images/a.png"
+  },
+  {
+    "round": 2,
+    "en": "afternoon",
+    "ko": "",
+    "img": "images/afternoon.png"
+  },
+  {
+    "round": 3,
+    "en": "all",
+    "ko": "",
+    "img": "images/all.png"
+  },
+  {
+    "round": 4,
+    "en": "another",
+    "ko": "",
+    "img": "images/another.png"
+  },
+  {
+    "round": 5,
+    "en": "as",
+    "ko": "",
+    "img": "images/as.png"
+  },
+  {
+    "round": 6,
+    "en": "bag",
+    "ko": "",
+    "img": "images/bag.png"
+  },
+  {
+    "round": 7,
+    "en": "bath",
+    "ko": "",
+    "img": "images/bath.png"
+  },
+  {
+    "round": 8,
+    "en": "before",
+    "ko": "",
+    "img": "images/before.png"
+  },
+  {
+    "round": 9,
+    "en": "bike",
+    "ko": "",
+    "img": "images/bike.png"
+  },
+  {
+    "round": 10,
+    "en": "body",
+    "ko": "",
+    "img": "images/body.png"
+  },
+  {
+    "round": 11,
+    "en": "bread",
+    "ko": "",
+    "img": "images/bread.png"
+  },
+  {
+    "round": 12,
+    "en": "burn",
+    "ko": "",
+    "img": "images/burn.png"
+  },
+  {
+    "round": 13,
+    "en": "call",
+    "ko": "",
+    "img": "images/call.png"
+  },
+  {
+    "round": 14,
+    "en": "carrot",
+    "ko": "",
+    "img": "images/carrot.png"
+  },
+  {
+    "round": 15,
+    "en": "change",
+    "ko": "",
+    "img": "images/change.png"
+  },
+  {
+    "round": 16,
+    "en": "city",
+    "ko": "",
+    "img": "images/city.png"
+  },
+  {
+    "round": 17,
+    "en": "club",
+    "ko": "",
+    "img": "images/club.png"
+  },
+  {
+    "round": 18,
+    "en": "compute",
+    "ko": "",
+    "img": "images/compute.png"
+  },
+  {
+    "round": 19,
+    "en": "country",
+    "ko": "",
+    "img": "images/country.png"
+  },
+  {
+    "round": 20,
+    "en": "cry",
+    "ko": "",
+    "img": "images/cry.png"
+  },
+  {
+    "round": 21,
+    "en": "daughter",
+    "ko": "",
+    "img": "images/daughter.png"
+  },
+  {
+    "round": 22,
+    "en": "die",
+    "ko": "",
+    "img": "images/die.png"
+  },
+  {
+    "round": 23,
+    "en": "doughnut",
+    "ko": "",
+    "img": "images/doughnut.png"
+  },
+  {
+    "round": 24,
+    "en": "duck",
+    "ko": "",
+    "img": "images/duck.png"
+  },
+  {
+    "round": 25,
+    "en": "eleven",
+    "ko": "",
+    "img": "images/eleven.png"
+  },
+  {
+    "round": 26,
+    "en": "face",
+    "ko": "",
+    "img": "images/face.png"
+  },
+  {
+    "round": 27,
+    "en": "father",
+    "ko": "",
+    "img": "images/father.png"
+  },
+  {
+    "round": 28,
+    "en": "fine",
+    "ko": "",
+    "img": "images/fine.png"
+  },
+  {
+    "round": 29,
+    "en": "fly",
+    "ko": "",
+    "img": "images/fly.png"
+  },
+  {
+    "round": 30,
+    "en": "form",
+    "ko": "",
+    "img": "images/form.png"
+  },
+  {
+    "round": 31,
+    "en": "fun",
+    "ko": "",
+    "img": "images/fun.png"
+  },
+  {
+    "round": 32,
+    "en": "glass",
+    "ko": "",
+    "img": "images/glass.png"
+  },
+  {
+    "round": 33,
+    "en": "gray",
+    "ko": "",
+    "img": "images/gray.png"
+  },
+  {
+    "round": 34,
+    "en": "habit",
+    "ko": "",
+    "img": "images/habit.png"
+  },
+  {
+    "round": 35,
+    "en": "he",
+    "ko": "",
+    "img": "images/he.png"
+  },
+  {
+    "round": 36,
+    "en": "high",
+    "ko": "",
+    "img": "images/high.png"
+  },
+  {
+    "round": 37,
+    "en": "honest",
+    "ko": "",
+    "img": "images/honest.png"
+  },
+  {
+    "round": 38,
+    "en": "hundred",
+    "ko": "",
+    "img": "images/hundred.png"
+  },
+  {
+    "round": 39,
+    "en": "inside",
+    "ko": "",
+    "img": "images/inside.png"
+  },
+  {
+    "round": 40,
+    "en": "join",
+    "ko": "",
+    "img": "images/join.png"
+  },
+  {
+    "round": 41,
+    "en": "king",
+    "ko": "",
+    "img": "images/king.png"
+  },
+  {
+    "round": 42,
+    "en": "last",
+    "ko": "",
+    "img": "images/last.png"
+  },
+  {
+    "round": 43,
+    "en": "life",
+    "ko": "",
+    "img": "images/life.png"
+  },
+  {
+    "round": 44,
+    "en": "look",
+    "ko": "",
+    "img": "images/look.png"
+  },
+  {
+    "round": 45,
+    "en": "map",
+    "ko": "",
+    "img": "images/map.png"
+  },
+  {
+    "round": 46,
+    "en": "memory",
+    "ko": "",
+    "img": "images/memory.png"
+  },
+  {
+    "round": 47,
+    "en": "moon",
+    "ko": "",
+    "img": "images/moon.png"
+  },
+  {
+    "round": 48,
+    "en": "must",
+    "ko": "",
+    "img": "images/must.png"
+  },
+  {
+    "round": 49,
+    "en": "newspaper",
+    "ko": "",
+    "img": "images/newspaper.png"
+  },
+  {
+    "round": 50,
+    "en": "notebook",
+    "ko": "",
+    "img": "images/notebook.png"
+  },
+  {
+    "round": 51,
+    "en": "okay",
+    "ko": "",
+    "img": "images/okay.png"
+  },
+  {
+    "round": 52,
+    "en": "page",
+    "ko": "",
+    "img": "images/page.png"
+  },
+  {
+    "round": 53,
+    "en": "pay",
+    "ko": "",
+    "img": "images/pay.png"
+  },
+  {
+    "round": 54,
+    "en": "pizza",
+    "ko": "",
+    "img": "images/pizza.png"
+  },
+  {
+    "round": 55,
+    "en": "power",
+    "ko": "",
+    "img": "images/power.png"
+  },
+  {
+    "round": 56,
+    "en": "put",
+    "ko": "",
+    "img": "images/put.png"
+  },
+  {
+    "round": 57,
+    "en": "read",
+    "ko": "",
+    "img": "images/read.png"
+  },
+  {
+    "round": 58,
+    "en": "right",
+    "ko": "",
+    "img": "images/right.png"
+  },
+  {
+    "round": 59,
+    "en": "safe",
+    "ko": "",
+    "img": "images/safe.png"
+  },
+  {
+    "round": 60,
+    "en": "science",
+    "ko": "",
+    "img": "images/science.png"
+  },
+  {
+    "round": 61,
+    "en": "set",
+    "ko": "",
+    "img": "images/set.png"
+  },
+  {
+    "round": 62,
+    "en": "shy",
+    "ko": "",
+    "img": "images/shy.png"
+  },
+  {
+    "round": 63,
+    "en": "skin",
+    "ko": "",
+    "img": "images/skin.png"
+  },
+  {
+    "round": 64,
+    "en": "soccer",
+    "ko": "",
+    "img": "images/soccer.png"
+  },
+  {
+    "round": 65,
+    "en": "south",
+    "ko": "",
+    "img": "images/south.png"
+  },
+  {
+    "round": 66,
+    "en": "star",
+    "ko": "",
+    "img": "images/star.png"
+  },
+  {
+    "round": 67,
+    "en": "study",
+    "ko": "",
+    "img": "images/study.png"
+  },
+  {
+    "round": 68,
+    "en": "take",
+    "ko": "",
+    "img": "images/take.png"
+  },
+  {
+    "round": 69,
+    "en": "tell",
+    "ko": "",
+    "img": "images/tell.png"
+  },
+  {
+    "round": 70,
+    "en": "there",
+    "ko": "",
+    "img": "images/there.png"
+  },
+  {
+    "round": 71,
+    "en": "ticket",
+    "ko": "",
+    "img": "images/ticket.png"
+  },
+  {
+    "round": 72,
+    "en": "too",
+    "ko": "",
+    "img": "images/too.png"
+  },
+  {
+    "round": 73,
+    "en": "trip",
+    "ko": "",
+    "img": "images/trip.png"
+  },
+  {
+    "round": 74,
+    "en": "twice",
+    "ko": "",
+    "img": "images/twice.png"
+  },
+  {
+    "round": 75,
+    "en": "vegetable",
+    "ko": "",
+    "img": "images/vegetable.png"
+  },
+  {
+    "round": 76,
+    "en": "want",
+    "ko": "",
+    "img": "images/want.png"
+  },
+  {
+    "round": 77,
+    "en": "weather",
+    "ko": "",
+    "img": "images/weather.png"
+  },
+  {
+    "round": 78,
+    "en": "what",
+    "ko": "",
+    "img": "images/what.png"
+  },
+  {
+    "round": 79,
+    "en": "window",
+    "ko": "",
+    "img": "images/window.png"
+  },
+  {
+    "round": 80,
+    "en": "worry",
+    "ko": "",
+    "img": "images/worry.png"
+  }
+]
