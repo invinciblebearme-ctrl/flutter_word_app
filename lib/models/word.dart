@@ -13,10 +13,11 @@ class Word {
 
   factory Word.fromJson(Map<String, dynamic> json) {
     return Word(
-      name: json['name'] ?? '',
-      meaning: json['meaning'] ?? '',
+      name: json['en'] ?? '',
+      meaning: json['ko'] ?? '',
       img: json['img'] ?? '',
       round: json['round'] ?? 0,
     );
   }
 }
+

@@ -1,10 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'screen/home_screen.dart';
 import 'providers/word_provider.dart';
+import 'screen/splash_screen.dart';
 
 void main() {
-  runApp(const WordApp());
+  runApp(
+    MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => WordProvider()),
+      ],
+      child: const WordApp(),
+    ),
+  );
 }
 
 class WordApp extends StatelessWidget {
@@ -12,14 +19,11 @@ class WordApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider<WordProvider>(
-      create: (context) => WordProvider(),
-      child: MaterialApp(
-        debugShowCheckedModeBanner: false,
-        title: '오늘의 영단어 UP!',
-        theme: ThemeData.dark(useMaterial3: true),
-        home: const HomeScreen(),
-      ),
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: '오늘의 영단어 UP!',
+      theme: ThemeData.dark(useMaterial3: true),
+      home: const SplashScreen(), // ✅ 시작 화면을 Splash로 지정
     );
   }
 }

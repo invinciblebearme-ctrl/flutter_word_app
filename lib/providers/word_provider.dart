@@ -7,9 +7,13 @@ class WordProvider extends ChangeNotifier {
   List<Word> _allWords = [];
   List<dynamic> indexList = [];
 
+  // TODO: 실제 배포된 Cloudflare Pages 또는 GitHub Pages URL로 장소 지정 필요
+  static const String _imageCdnBaseUrl = 'https://raw.githubusercontent.com/[USER]/[REPO]/main/assets/images/';
+  static const bool useRemoteImages = true; // 외부 호스팅 이미지 사용 여부
+
   /// 단어 및 회차 메타정보 로드
   Future<void> loadWords() async {
-    final String wordStr = await rootBundle.loadString('assets/data/words.json');
+    final String wordStr = await rootBundle.loadString('assets/data/words_800_rounds.json');
     _allWords = (json.decode(wordStr) as List)
         .map((e) => Word.fromJson(e))
         .toList();
@@ -31,11 +35,21 @@ class WordProvider extends ChangeNotifier {
     return _allWords.where((w) => w.round == round).toList();
   }
 
+  String getImageUrl(String imgPath) {
+    if (useRemoteImages) {
+      // images/a.png -> a.webp 로 변환하여 CDN에서 로딩
+      final fileName = imgPath.split('/').last.replaceAll('.png', '.webp');
+      return '$_imageCdnBaseUrl$fileName';
+    }
+    return 'assets/$imgPath';
+  }
+
   String getThumbnailImageForRound(int round) {
     final int imgIndex = (round - 1);
+    String imgPath = 'images/default.png';
     if (imgIndex < indexList.length && indexList[imgIndex]["img"] != null) {
-      return 'assets/' + indexList[imgIndex]["img"];
+      imgPath = indexList[imgIndex]["img"];
     }
-    return 'assets/images/default.png';
+    return getImageUrl(imgPath);
   }
 }

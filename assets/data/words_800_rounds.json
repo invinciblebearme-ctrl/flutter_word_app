@@ -1,0 +1,4790 @@
+[
+  {
+    "round": 1,
+    "en": "a",
+    "ko": "하나의",
+    "img": "images/a.png"
+  },
+  {
+    "round": 1,
+    "en": "about",
+    "ko": "~에 대하여, 대략~, 약~",
+    "img": "images/about.png"
+  },
+  {
+    "round": 1,
+    "en": "across",
+    "ko": "~을 가로질러, ~을 건너서",
+    "img": "images/across.png"
+  },
+  {
+    "round": 1,
+    "en": "act",
+    "ko": "행동하다, 행동, 행위",
+    "img": "images/act.png"
+  },
+  {
+    "round": 1,
+    "en": "actor",
+    "ko": "영화배우",
+    "img": "images/actor.png"
+  },
+  {
+    "round": 1,
+    "en": "address",
+    "ko": "주소, 연설",
+    "img": "images/address.png"
+  },
+  {
+    "round": 1,
+    "en": "afraid",
+    "ko": "무서워하여, 두려워하여",
+    "img": "images/afraid.png"
+  },
+  {
+    "round": 1,
+    "en": "after",
+    "ko": "~뒤에, ~다음에",
+    "img": "images/after.png"
+  },
+  {
+    "round": 1,
+    "en": "afternoon",
+    "ko": "오후",
+    "img": "images/afternoon.png"
+  },
+  {
+    "round": 1,
+    "en": "again",
+    "ko": "또, 다시 한 번",
+    "img": "images/again.png"
+  },
+  {
+    "round": 2,
+    "en": "age",
+    "ko": "나이, 연령",
+    "img": "images/age.png"
+  },
+  {
+    "round": 2,
+    "en": "ago",
+    "ko": "~전에",
+    "img": "images/ago.png"
+  },
+  {
+    "round": 2,
+    "en": "air",
+    "ko": "공기, 공중",
+    "img": "images/air.png"
+  },
+  {
+    "round": 2,
+    "en": "airplane",
+    "ko": "비행기",
+    "img": "images/airplane.png"
+  },
+  {
+    "round": 2,
+    "en": "airport",
+    "ko": "공항, 비행장",
+    "img": "images/airport.png"
+  },
+  {
+    "round": 2,
+    "en": "album",
+    "ko": "앨범, 사진첩",
+    "img": "images/album.png"
+  },
+  {
+    "round": 2,
+    "en": "all",
+    "ko": "모든, 모두, 전부",
+    "img": "images/all.png"
+  },
+  {
+    "round": 2,
+    "en": "along",
+    "ko": "~을 따라서",
+    "img": "images/along.png"
+  },
+  {
+    "round": 2,
+    "en": "always",
+    "ko": "항상, 언제나",
+    "img": "images/always.png"
+  },
+  {
+    "round": 2,
+    "en": "among",
+    "ko": "~사이에, ~가운데",
+    "img": "images/among.png"
+  },
+  {
+    "round": 3,
+    "en": "an",
+    "ko": "하나의",
+    "img": "images/an.png"
+  },
+  {
+    "round": 3,
+    "en": "and",
+    "ko": "그리고, ~와",
+    "img": "images/and.png"
+  },
+  {
+    "round": 3,
+    "en": "angry",
+    "ko": "화난, 성난",
+    "img": "images/angry.png"
+  },
+  {
+    "round": 3,
+    "en": "animal",
+    "ko": "동물, 짐승",
+    "img": "images/animal.png"
+  },
+  {
+    "round": 3,
+    "en": "answer",
+    "ko": "대답, 대답하다",
+    "img": "images/answer.png"
+  },
+  {
+    "round": 3,
+    "en": "any",
+    "ko": "어떤, 무슨, 무언가",
+    "img": "images/any.png"
+  },
+  {
+    "round": 3,
+    "en": "apartment",
+    "ko": "아파트",
+    "img": "images/apartment.png"
+  },
+  {
+    "round": 3,
+    "en": "apple",
+    "ko": "사과",
+    "img": "images/apple.png"
+  },
+  {
+    "round": 3,
+    "en": "arm",
+    "ko": "팔",
+    "img": "images/arm.png"
+  },
+  {
+    "round": 3,
+    "en": "around",
+    "ko": "~주위에, ~둘레에",
+    "img": "images/around.png"
+  },
+  {
+    "round": 4,
+    "en": "arrive",
+    "ko": "도착하다",
+    "img": "images/arrive.png"
+  },
+  {
+    "round": 4,
+    "en": "as",
+    "ko": "~만큼, ~할 때, ~하면서, ~로서",
+    "img": "images/as.png"
+  },
+  {
+    "round": 4,
+    "en": "ask",
+    "ko": "묻다. 질문하다",
+    "img": "images/ask.png"
+  },
+  {
+    "round": 4,
+    "en": "at",
+    "ko": "~때에(시간), ~에서(장소)",
+    "img": "images/at.png"
+  },
+  {
+    "round": 4,
+    "en": "aunt",
+    "ko": "숙모, 고모, 이모, 아주머니",
+    "img": "images/aunt.png"
+  },
+  {
+    "round": 4,
+    "en": "autumn",
+    "ko": "가을",
+    "img": "images/autumn.png"
+  },
+  {
+    "round": 4,
+    "en": "away",
+    "ko": "멀리, 떨어져서, 저쪽에, ~에 없는",
+    "img": "images/away.png"
+  },
+  {
+    "round": 4,
+    "en": "baby",
+    "ko": "아기",
+    "img": "images/baby.png"
+  },
+  {
+    "round": 4,
+    "en": "back",
+    "ko": "뒤, 등, 돌아오다",
+    "img": "images/back.png"
+  },
+  {
+    "round": 4,
+    "en": "bad",
+    "ko": "(행동이) 나쁜, 옳지 않은, (음식 등이)상한, 서투른",
+    "img": "images/bad.png"
+  },
+  {
+    "round": 5,
+    "en": "bag",
+    "ko": "자루, 가방",
+    "img": "images/bag.png"
+  },
+  {
+    "round": 5,
+    "en": "ball",
+    "ko": "공",
+    "img": "images/ball.png"
+  },
+  {
+    "round": 5,
+    "en": "balloon",
+    "ko": "풍선",
+    "img": "images/balloon.png"
+  },
+  {
+    "round": 5,
+    "en": "banana",
+    "ko": "바나나",
+    "img": "images/banana.png"
+  },
+  {
+    "round": 5,
+    "en": "band",
+    "ko": "밴드, 악단",
+    "img": "images/band.png"
+  },
+  {
+    "round": 5,
+    "en": "bank",
+    "ko": "은행",
+    "img": "images/bank.png"
+  },
+  {
+    "round": 5,
+    "en": "base",
+    "ko": "바닥, 밑면, (야구의)베이스, 루",
+    "img": "images/base.png"
+  },
+  {
+    "round": 5,
+    "en": "basket",
+    "ko": "바구니",
+    "img": "images/basket.png"
+  },
+  {
+    "round": 5,
+    "en": "bath",
+    "ko": "목욕",
+    "img": "images/bath.png"
+  },
+  {
+    "round": 5,
+    "en": "be",
+    "ko": "~이다, ~이 되다",
+    "img": "images/be.png"
+  },
+  {
+    "round": 6,
+    "en": "beach",
+    "ko": "해변, 바닷가",
+    "img": "images/beach.png"
+  },
+  {
+    "round": 6,
+    "en": "bear",
+    "ko": "곰, 참다, 견디다",
+    "img": "images/bear.png"
+  },
+  {
+    "round": 6,
+    "en": "beautiful",
+    "ko": "아름다운, 예쁜",
+    "img": "images/beautiful.png"
+  },
+  {
+    "round": 6,
+    "en": "because",
+    "ko": "왜냐하면, ~이기 때문에",
+    "img": "images/because.png"
+  },
+  {
+    "round": 6,
+    "en": "become",
+    "ko": "~이 되다",
+    "img": "images/become.png"
+  },
+  {
+    "round": 6,
+    "en": "bed",
+    "ko": "침대",
+    "img": "images/bed.png"
+  },
+  {
+    "round": 6,
+    "en": "before",
+    "ko": "~앞에, ~전에",
+    "img": "images/before.png"
+  },
+  {
+    "round": 6,
+    "en": "begin",
+    "ko": "시작하다",
+    "img": "images/begin.png"
+  },
+  {
+    "round": 6,
+    "en": "behind",
+    "ko": "~뒤에",
+    "img": "images/behind.png"
+  },
+  {
+    "round": 6,
+    "en": "bell",
+    "ko": "종, 방울, 종소리",
+    "img": "images/bell.png"
+  },
+  {
+    "round": 7,
+    "en": "below",
+    "ko": "~의 밑에, ~의 아래에",
+    "img": "images/below.png"
+  },
+  {
+    "round": 7,
+    "en": "bench",
+    "ko": "벤치, 긴 의자",
+    "img": "images/bench.png"
+  },
+  {
+    "round": 7,
+    "en": "beside",
+    "ko": "~의 옆에",
+    "img": "images/beside.png"
+  },
+  {
+    "round": 7,
+    "en": "between",
+    "ko": "~의 사이에",
+    "img": "images/between.png"
+  },
+  {
+    "round": 7,
+    "en": "bicycle",
+    "ko": "자전거",
+    "img": "images/bicycle.png"
+  },
+  {
+    "round": 7,
+    "en": "big",
+    "ko": "큰, 커다란",
+    "img": "images/big.png"
+  },
+  {
+    "round": 7,
+    "en": "bird",
+    "ko": "새",
+    "img": "images/bird.png"
+  },
+  {
+    "round": 7,
+    "en": "birthday",
+    "ko": "생일",
+    "img": "images/birthday.png"
+  },
+  {
+    "round": 7,
+    "en": "black",
+    "ko": "검은, 검은색",
+    "img": "images/black.png"
+  },
+  {
+    "round": 7,
+    "en": "blank",
+    "ko": "비어있는",
+    "img": "images/blank.png"
+  },
+  {
+    "round": 8,
+    "en": "blow",
+    "ko": "(바람이)불다, (입으로)불다",
+    "img": "images/blow.png"
+  },
+  {
+    "round": 8,
+    "en": "blue",
+    "ko": "파란, 푸른, 파란색, 푸른색",
+    "img": "images/blue.png"
+  },
+  {
+    "round": 8,
+    "en": "board",
+    "ko": "널빤지, 판자, 판",
+    "img": "images/board.png"
+  },
+  {
+    "round": 8,
+    "en": "boat",
+    "ko": "보트, 작은 배",
+    "img": "images/boat.png"
+  },
+  {
+    "round": 8,
+    "en": "body",
+    "ko": "몸, 신체",
+    "img": "images/body.png"
+  },
+  {
+    "round": 8,
+    "en": "book",
+    "ko": "책",
+    "img": "images/book.png"
+  },
+  {
+    "round": 8,
+    "en": "bottle",
+    "ko": "병",
+    "img": "images/bottle.png"
+  },
+  {
+    "round": 8,
+    "en": "bowl",
+    "ko": "주발, 사발, 그릇",
+    "img": "images/bowl.png"
+  },
+  {
+    "round": 8,
+    "en": "box",
+    "ko": "상자",
+    "img": "images/box.png"
+  },
+  {
+    "round": 8,
+    "en": "boy",
+    "ko": "소년, 사내아이",
+    "img": "images/boy.png"
+  },
+  {
+    "round": 9,
+    "en": "bread",
+    "ko": "빵",
+    "img": "images/bread.png"
+  },
+  {
+    "round": 9,
+    "en": "break",
+    "ko": "깨다, 부수다",
+    "img": "images/break.png"
+  },
+  {
+    "round": 9,
+    "en": "breakfast",
+    "ko": "아침식사",
+    "img": "images/breakfast.png"
+  },
+  {
+    "round": 9,
+    "en": "bridge",
+    "ko": "다리, 교량",
+    "img": "images/bridge.png"
+  },
+  {
+    "round": 9,
+    "en": "bright",
+    "ko": "밝은, 눈부신, 빛나는",
+    "img": "images/bright.png"
+  },
+  {
+    "round": 9,
+    "en": "bring",
+    "ko": "가져오다, 데려오다",
+    "img": "images/bring.png"
+  },
+  {
+    "round": 9,
+    "en": "brother",
+    "ko": "형제, 형, 오빠, 남동생",
+    "img": "images/brother.png"
+  },
+  {
+    "round": 9,
+    "en": "brown",
+    "ko": "갈색의, 밤색의, 갈색, 밤색",
+    "img": "images/brown.png"
+  },
+  {
+    "round": 9,
+    "en": "brush",
+    "ko": "솔",
+    "img": "images/brush.png"
+  },
+  {
+    "round": 9,
+    "en": "build",
+    "ko": "짓다, 세우다",
+    "img": "images/build.png"
+  },
+  {
+    "round": 10,
+    "en": "burn",
+    "ko": "타다, 불타다, 태우다, (불에 덴) 상처, 화상",
+    "img": "images/burn.png"
+  },
+  {
+    "round": 10,
+    "en": "burnt",
+    "ko": "burn의 과거, 과거분사형",
+    "img": "images/burnt.png"
+  },
+  {
+    "round": 10,
+    "en": "bus",
+    "ko": "버스",
+    "img": "images/bus.png"
+  },
+  {
+    "round": 10,
+    "en": "busy",
+    "ko": "바쁜",
+    "img": "images/busy.png"
+  },
+  {
+    "round": 10,
+    "en": "but",
+    "ko": "그러나, 그렇지만",
+    "img": "images/but.png"
+  },
+  {
+    "round": 10,
+    "en": "butter",
+    "ko": "버터",
+    "img": "images/butter.png"
+  },
+  {
+    "round": 10,
+    "en": "button",
+    "ko": "단추, (벨의)누름단추",
+    "img": "images/button.png"
+  },
+  {
+    "round": 10,
+    "en": "buy",
+    "ko": "사다",
+    "img": "images/buy.png"
+  },
+  {
+    "round": 10,
+    "en": "by",
+    "ko": "~의 옆에",
+    "img": "images/by.png"
+  },
+  {
+    "round": 10,
+    "en": "bye",
+    "ko": "잘가요, 안녕(헤어질 때 하는 인사말)",
+    "img": "images/bye.png"
+  },
+  {
+    "round": 11,
+    "en": "cake",
+    "ko": "케이크",
+    "img": "images/cake.png"
+  },
+  {
+    "round": 11,
+    "en": "calenda",
+    "ko": "달력",
+    "img": "images/calenda.png"
+  },
+  {
+    "round": 11,
+    "en": "call",
+    "ko": "~를 부르다, 전화하다, (잠시)들르다",
+    "img": "images/call.png"
+  },
+  {
+    "round": 11,
+    "en": "camera",
+    "ko": "카메라, 사진기",
+    "img": "images/camera.png"
+  },
+  {
+    "round": 11,
+    "en": "camp",
+    "ko": "야영하다, 캠프하다",
+    "img": "images/camp.png"
+  },
+  {
+    "round": 11,
+    "en": "can",
+    "ko": "~할 수 있다",
+    "img": "images/can.png"
+  },
+  {
+    "round": 11,
+    "en": "candle",
+    "ko": "양초",
+    "img": "images/candle.png"
+  },
+  {
+    "round": 11,
+    "en": "candy",
+    "ko": "사탕, 캔디",
+    "img": "images/candy.png"
+  },
+  {
+    "round": 11,
+    "en": "cap",
+    "ko": "모자",
+    "img": "images/cap.png"
+  },
+  {
+    "round": 11,
+    "en": "capital",
+    "ko": "수도",
+    "img": "images/capital.png"
+  },
+  {
+    "round": 12,
+    "en": "captain",
+    "ko": "선장",
+    "img": "images/captain.png"
+  },
+  {
+    "round": 12,
+    "en": "car",
+    "ko": "자동차",
+    "img": "images/car.png"
+  },
+  {
+    "round": 12,
+    "en": "card",
+    "ko": "카드",
+    "img": "images/card.png"
+  },
+  {
+    "round": 12,
+    "en": "care",
+    "ko": "주의, 조심",
+    "img": "images/care.png"
+  },
+  {
+    "round": 12,
+    "en": "carpenter",
+    "ko": "목공",
+    "img": "images/carpenter.png"
+  },
+  {
+    "round": 12,
+    "en": "carry",
+    "ko": "~을 나르다, ~을 가지고 있다",
+    "img": "images/carry.png"
+  },
+  {
+    "round": 12,
+    "en": "cartoon",
+    "ko": "만화",
+    "img": "images/cartoon.png"
+  },
+  {
+    "round": 12,
+    "en": "case",
+    "ko": "상자",
+    "img": "images/case.png"
+  },
+  {
+    "round": 12,
+    "en": "cassette",
+    "ko": "카세트테이프",
+    "img": "images/cassette.png"
+  },
+  {
+    "round": 12,
+    "en": "cat",
+    "ko": "고양이",
+    "img": "images/cat.png"
+  },
+  {
+    "round": 13,
+    "en": "catch",
+    "ko": "잡다",
+    "img": "images/catch.png"
+  },
+  {
+    "round": 13,
+    "en": "ceiling",
+    "ko": "(방의) 천장",
+    "img": "images/ceiling.png"
+  },
+  {
+    "round": 13,
+    "en": "center",
+    "ko": "중심, 중앙",
+    "img": "images/center.png"
+  },
+  {
+    "round": 13,
+    "en": "chair",
+    "ko": "의자",
+    "img": "images/chair.png"
+  },
+  {
+    "round": 13,
+    "en": "chalk",
+    "ko": "분필, 백묵",
+    "img": "images/chalk.png"
+  },
+  {
+    "round": 13,
+    "en": "chance",
+    "ko": "기회",
+    "img": "images/chance.png"
+  },
+  {
+    "round": 13,
+    "en": "change",
+    "ko": "변화다, 바꾸다, 변경, 변화, 거스름돈, 잔돈",
+    "img": "images/change.png"
+  },
+  {
+    "round": 13,
+    "en": "cheap",
+    "ko": "값싼",
+    "img": "images/cheap.png"
+  },
+  {
+    "round": 13,
+    "en": "cheese",
+    "ko": "치즈",
+    "img": "images/cheese.png"
+  },
+  {
+    "round": 13,
+    "en": "chicken",
+    "ko": "닭, 닭고기",
+    "img": "images/chicken.png"
+  },
+  {
+    "round": 14,
+    "en": "child",
+    "ko": "어린이, 아이",
+    "img": "images/child.png"
+  },
+  {
+    "round": 14,
+    "en": "chopstick",
+    "ko": "젓가락",
+    "img": "images/chopstick.png"
+  },
+  {
+    "round": 14,
+    "en": "church",
+    "ko": "교회",
+    "img": "images/church.png"
+  },
+  {
+    "round": 14,
+    "en": "circle",
+    "ko": "원",
+    "img": "images/circle.png"
+  },
+  {
+    "round": 14,
+    "en": "city",
+    "ko": "도시",
+    "img": "images/city.png"
+  },
+  {
+    "round": 14,
+    "en": "class",
+    "ko": "학급, 반, 수업",
+    "img": "images/class.png"
+  },
+  {
+    "round": 14,
+    "en": "classmate",
+    "ko": "급우, 반 친구",
+    "img": "images/classmate.png"
+  },
+  {
+    "round": 14,
+    "en": "clean",
+    "ko": "깨끗한, 청결한",
+    "img": "images/clean.png"
+  },
+  {
+    "round": 14,
+    "en": "climb",
+    "ko": "(나무, 산 등에) 오르다",
+    "img": "images/climb.png"
+  },
+  {
+    "round": 14,
+    "en": "clock",
+    "ko": "시계, 탁상시계",
+    "img": "images/clock.png"
+  },
+  {
+    "round": 15,
+    "en": "close",
+    "ko": "닫다",
+    "img": "images/close.png"
+  },
+  {
+    "round": 15,
+    "en": "clothes",
+    "ko": "옷",
+    "img": "images/clothes.png"
+  },
+  {
+    "round": 15,
+    "en": "cloud",
+    "ko": "구름",
+    "img": "images/cloud.png"
+  },
+  {
+    "round": 15,
+    "en": "club",
+    "ko": "클럽, 모임",
+    "img": "images/club.png"
+  },
+  {
+    "round": 15,
+    "en": "coat",
+    "ko": "코트, 외투",
+    "img": "images/coat.png"
+  },
+  {
+    "round": 15,
+    "en": "coffee",
+    "ko": "커피",
+    "img": "images/coffee.png"
+  },
+  {
+    "round": 15,
+    "en": "coin",
+    "ko": "동전",
+    "img": "images/coin.png"
+  },
+  {
+    "round": 15,
+    "en": "cold",
+    "ko": "추운, 차가운",
+    "img": "images/cold.png"
+  },
+  {
+    "round": 15,
+    "en": "color",
+    "ko": "빛깔, 색",
+    "img": "images/color.png"
+  },
+  {
+    "round": 15,
+    "en": "come",
+    "ko": "오다",
+    "img": "images/come.png"
+  },
+  {
+    "round": 16,
+    "en": "comic book",
+    "ko": "만화책",
+    "img": "images/comic book.png"
+  },
+  {
+    "round": 16,
+    "en": "computer",
+    "ko": "컴퓨터",
+    "img": "images/computer.png"
+  },
+  {
+    "round": 16,
+    "en": "cook",
+    "ko": "요리사",
+    "img": "images/cook.png"
+  },
+  {
+    "round": 16,
+    "en": "cool",
+    "ko": "시원한, 서늘한",
+    "img": "images/cool.png"
+  },
+  {
+    "round": 16,
+    "en": "copy",
+    "ko": "그대로 옮겨 쓰다",
+    "img": "images/copy.png"
+  },
+  {
+    "round": 16,
+    "en": "corner",
+    "ko": "구석, 모퉁이",
+    "img": "images/corner.png"
+  },
+  {
+    "round": 16,
+    "en": "count",
+    "ko": "세다",
+    "img": "images/count.png"
+  },
+  {
+    "round": 16,
+    "en": "country",
+    "ko": "나라, 국가, 시골",
+    "img": "images/country.png"
+  },
+  {
+    "round": 16,
+    "en": "course",
+    "ko": "과목, 경로",
+    "img": "images/course.png"
+  },
+  {
+    "round": 16,
+    "en": "cousin",
+    "ko": "사촌",
+    "img": "images/cousin.png"
+  },
+  {
+    "round": 17,
+    "en": "cover",
+    "ko": "가리다, 덮다",
+    "img": "images/cover.png"
+  },
+  {
+    "round": 17,
+    "en": "cow",
+    "ko": "암소",
+    "img": "images/cow.png"
+  },
+  {
+    "round": 17,
+    "en": "crayon",
+    "ko": "크레용",
+    "img": "images/crayon.png"
+  },
+  {
+    "round": 17,
+    "en": "cream",
+    "ko": "크림, 크림색의",
+    "img": "images/cream.png"
+  },
+  {
+    "round": 17,
+    "en": "cross",
+    "ko": "(길 따위를) 건너다",
+    "img": "images/cross.png"
+  },
+  {
+    "round": 17,
+    "en": "cry",
+    "ko": "울다, 외치다",
+    "img": "images/cry.png"
+  },
+  {
+    "round": 17,
+    "en": "cup",
+    "ko": "컵, 잔",
+    "img": "images/cup.png"
+  },
+  {
+    "round": 17,
+    "en": "curtain",
+    "ko": "커튼",
+    "img": "images/curtain.png"
+  },
+  {
+    "round": 17,
+    "en": "cut",
+    "ko": "자르다",
+    "img": "images/cut.png"
+  },
+  {
+    "round": 17,
+    "en": "cute",
+    "ko": "귀여운",
+    "img": "images/cute.png"
+  },
+  {
+    "round": 18,
+    "en": "dad",
+    "ko": "아빠",
+    "img": "images/dad.png"
+  },
+  {
+    "round": 18,
+    "en": "dance",
+    "ko": "춤추다",
+    "img": "images/dance.png"
+  },
+  {
+    "round": 18,
+    "en": "danger",
+    "ko": "위험, 위독한 상태",
+    "img": "images/danger.png"
+  },
+  {
+    "round": 18,
+    "en": "dark",
+    "ko": "캄캄한, 어두운",
+    "img": "images/dark.png"
+  },
+  {
+    "round": 18,
+    "en": "date",
+    "ko": "날짜",
+    "img": "images/date.png"
+  },
+  {
+    "round": 18,
+    "en": "daughter",
+    "ko": "딸",
+    "img": "images/daughter.png"
+  },
+  {
+    "round": 18,
+    "en": "day",
+    "ko": "낮, 하루, ~일",
+    "img": "images/day.png"
+  },
+  {
+    "round": 18,
+    "en": "dead",
+    "ko": "(죽은 듯이) 조용한, 죽은",
+    "img": "images/dead.png"
+  },
+  {
+    "round": 18,
+    "en": "deep",
+    "ko": "깊은, 깊숙이 들어간",
+    "img": "images/deep.png"
+  },
+  {
+    "round": 18,
+    "en": "deer",
+    "ko": "사슴",
+    "img": "images/deer.png"
+  },
+  {
+    "round": 19,
+    "en": "desk",
+    "ko": "책상",
+    "img": "images/desk.png"
+  },
+  {
+    "round": 19,
+    "en": "dial",
+    "ko": "전화 걸다, 다이얼을 돌리다",
+    "img": "images/dial.png"
+  },
+  {
+    "round": 19,
+    "en": "diary",
+    "ko": "일기",
+    "img": "images/diary.png"
+  },
+  {
+    "round": 19,
+    "en": "dictionary",
+    "ko": "사전",
+    "img": "images/dictionary.png"
+  },
+  {
+    "round": 19,
+    "en": "die",
+    "ko": "죽다, 사망하다",
+    "img": "images/die.png"
+  },
+  {
+    "round": 19,
+    "en": "dinner",
+    "ko": "저녁식사",
+    "img": "images/dinner.png"
+  },
+  {
+    "round": 19,
+    "en": "dirty",
+    "ko": "더러운",
+    "img": "images/dirty.png"
+  },
+  {
+    "round": 19,
+    "en": "dish",
+    "ko": "접시",
+    "img": "images/dish.png"
+  },
+  {
+    "round": 19,
+    "en": "do",
+    "ko": "~을 하다, 행하다, 의문문·부정문의 조동사",
+    "img": "images/do.png"
+  },
+  {
+    "round": 19,
+    "en": "doctor",
+    "ko": "의사",
+    "img": "images/doctor.png"
+  },
+  {
+    "round": 20,
+    "en": "dog",
+    "ko": "개",
+    "img": "images/dog.png"
+  },
+  {
+    "round": 20,
+    "en": "doll",
+    "ko": "인형",
+    "img": "images/doll.png"
+  },
+  {
+    "round": 20,
+    "en": "dollar",
+    "ko": "달러(미국의 화폐단위)",
+    "img": "images/dollar.png"
+  },
+  {
+    "round": 20,
+    "en": "dolphin",
+    "ko": "돌고래",
+    "img": "images/dolphin.png"
+  },
+  {
+    "round": 20,
+    "en": "door",
+    "ko": "문",
+    "img": "images/door.png"
+  },
+  {
+    "round": 20,
+    "en": "down",
+    "ko": "아래로, 낮은 곳으로",
+    "img": "images/down.png"
+  },
+  {
+    "round": 20,
+    "en": "draw",
+    "ko": "~을 그리다, 끌다, 끌어당기다",
+    "img": "images/draw.png"
+  },
+  {
+    "round": 20,
+    "en": "dream",
+    "ko": "꿈",
+    "img": "images/dream.png"
+  },
+  {
+    "round": 20,
+    "en": "dress",
+    "ko": "드레스, 옷, 옷 입다",
+    "img": "images/dress.png"
+  },
+  {
+    "round": 20,
+    "en": "drink",
+    "ko": "(물이나 음료 등을) 마시다",
+    "img": "images/drink.png"
+  },
+  {
+    "round": 21,
+    "en": "drive",
+    "ko": "운전하다",
+    "img": "images/drive.png"
+  },
+  {
+    "round": 21,
+    "en": "drop",
+    "ko": "방울, 물방울, ~을 떨어뜨리다",
+    "img": "images/drop.png"
+  },
+  {
+    "round": 21,
+    "en": "drum",
+    "ko": "북, 드럼",
+    "img": "images/drum.png"
+  },
+  {
+    "round": 21,
+    "en": "dry",
+    "ko": "마른, 건조한",
+    "img": "images/dry.png"
+  },
+  {
+    "round": 21,
+    "en": "duck",
+    "ko": "오리",
+    "img": "images/duck.png"
+  },
+  {
+    "round": 21,
+    "en": "ear",
+    "ko": "귀",
+    "img": "images/ear.png"
+  },
+  {
+    "round": 21,
+    "en": "early",
+    "ko": "일찍",
+    "img": "images/early.png"
+  },
+  {
+    "round": 21,
+    "en": "earth",
+    "ko": "지구, 땅",
+    "img": "images/earth.png"
+  },
+  {
+    "round": 21,
+    "en": "east",
+    "ko": "동쪽",
+    "img": "images/east.png"
+  },
+  {
+    "round": 21,
+    "en": "echo",
+    "ko": "메아리",
+    "img": "images/echo.png"
+  },
+  {
+    "round": 22,
+    "en": "empty",
+    "ko": "빈, 비어있는",
+    "img": "images/empty.png"
+  },
+  {
+    "round": 22,
+    "en": "end",
+    "ko": "끝, 마지막",
+    "img": "images/end.png"
+  },
+  {
+    "round": 22,
+    "en": "engine",
+    "ko": "(기계의) 엔진",
+    "img": "images/engine.png"
+  },
+  {
+    "round": 22,
+    "en": "enjoy",
+    "ko": "~을 즐기다",
+    "img": "images/enjoy.png"
+  },
+  {
+    "round": 22,
+    "en": "enough",
+    "ko": "충분히, ~할 만큼",
+    "img": "images/enough.png"
+  },
+  {
+    "round": 22,
+    "en": "evening",
+    "ko": "저녁, 밤",
+    "img": "images/evening.png"
+  },
+  {
+    "round": 22,
+    "en": "every",
+    "ko": "매~, 모든",
+    "img": "images/every.png"
+  },
+  {
+    "round": 22,
+    "en": "example",
+    "ko": "보기, 사례",
+    "img": "images/example.png"
+  },
+  {
+    "round": 22,
+    "en": "excellent",
+    "ko": "뛰어난, 우수한",
+    "img": "images/excellent.png"
+  },
+  {
+    "round": 22,
+    "en": "excite",
+    "ko": "흥분시키다, 자극하다",
+    "img": "images/excite.png"
+  },
+  {
+    "round": 23,
+    "en": "excuse",
+    "ko": "용서하다, 변명",
+    "img": "images/excuse.png"
+  },
+  {
+    "round": 23,
+    "en": "exercise",
+    "ko": "운동",
+    "img": "images/exercise.png"
+  },
+  {
+    "round": 23,
+    "en": "eye",
+    "ko": "눈",
+    "img": "images/eye.png"
+  },
+  {
+    "round": 23,
+    "en": "face",
+    "ko": "얼굴",
+    "img": "images/face.png"
+  },
+  {
+    "round": 23,
+    "en": "fact",
+    "ko": "사실, 진실",
+    "img": "images/fact.png"
+  },
+  {
+    "round": 23,
+    "en": "fair",
+    "ko": "공평한, 공정한",
+    "img": "images/fair.png"
+  },
+  {
+    "round": 23,
+    "en": "fall",
+    "ko": "떨어지다, 넘어지다, 가을",
+    "img": "images/fall.png"
+  },
+  {
+    "round": 23,
+    "en": "family",
+    "ko": "가족",
+    "img": "images/family.png"
+  },
+  {
+    "round": 23,
+    "en": "famous",
+    "ko": "유명한",
+    "img": "images/famous.png"
+  },
+  {
+    "round": 23,
+    "en": "far",
+    "ko": "멀리, 멀리 떨어져",
+    "img": "images/far.png"
+  },
+  {
+    "round": 24,
+    "en": "farm",
+    "ko": "농장, 목장",
+    "img": "images/farm.png"
+  },
+  {
+    "round": 24,
+    "en": "fast",
+    "ko": "빠른",
+    "img": "images/fast.png"
+  },
+  {
+    "round": 24,
+    "en": "fat",
+    "ko": "뚱뚱한, 살찐",
+    "img": "images/fat.png"
+  },
+  {
+    "round": 24,
+    "en": "father",
+    "ko": "아버지, (천주교의) 신부님",
+    "img": "images/father.png"
+  },
+  {
+    "round": 24,
+    "en": "feel",
+    "ko": "~을 느끼다",
+    "img": "images/feel.png"
+  },
+  {
+    "round": 24,
+    "en": "few",
+    "ko": "거의 없는",
+    "img": "images/few.png"
+  },
+  {
+    "round": 24,
+    "en": "field",
+    "ko": "밭, 들판, 경기장",
+    "img": "images/field.png"
+  },
+  {
+    "round": 24,
+    "en": "fight",
+    "ko": "싸우다",
+    "img": "images/fight.png"
+  },
+  {
+    "round": 24,
+    "en": "fill",
+    "ko": "~을 채우다",
+    "img": "images/fill.png"
+  },
+  {
+    "round": 24,
+    "en": "film",
+    "ko": "필름, 영화",
+    "img": "images/film.png"
+  },
+  {
+    "round": 25,
+    "en": "find",
+    "ko": "~을 발견하다, ~을 찾다",
+    "img": "images/find.png"
+  },
+  {
+    "round": 25,
+    "en": "fine",
+    "ko": "좋은, 훌륭한",
+    "img": "images/fine.png"
+  },
+  {
+    "round": 25,
+    "en": "finger",
+    "ko": "손가락",
+    "img": "images/finger.png"
+  },
+  {
+    "round": 25,
+    "en": "finish",
+    "ko": "~을 끝내다",
+    "img": "images/finish.png"
+  },
+  {
+    "round": 25,
+    "en": "fire",
+    "ko": "불, 화재",
+    "img": "images/fire.png"
+  },
+  {
+    "round": 25,
+    "en": "fish",
+    "ko": "물고기",
+    "img": "images/fish.png"
+  },
+  {
+    "round": 25,
+    "en": "fix",
+    "ko": "고치다, 가다듬다, (시간·장소 등을) 정하다, ~에 달고 고정시키다",
+    "img": "images/fix.png"
+  },
+  {
+    "round": 25,
+    "en": "flag",
+    "ko": "기, 깃발",
+    "img": "images/flag.png"
+  },
+  {
+    "round": 25,
+    "en": "floor",
+    "ko": "마루, 바닥",
+    "img": "images/floor.png"
+  },
+  {
+    "round": 25,
+    "en": "flower",
+    "ko": "꽃",
+    "img": "images/flower.png"
+  },
+  {
+    "round": 26,
+    "en": "fly",
+    "ko": "날다, ~을 날리다",
+    "img": "images/fly.png"
+  },
+  {
+    "round": 26,
+    "en": "follow",
+    "ko": "~을 따르다, ~을 따라가다(따라오다)",
+    "img": "images/follow.png"
+  },
+  {
+    "round": 26,
+    "en": "food",
+    "ko": "음식",
+    "img": "images/food.png"
+  },
+  {
+    "round": 26,
+    "en": "fool",
+    "ko": "바보",
+    "img": "images/fool.png"
+  },
+  {
+    "round": 26,
+    "en": "foot",
+    "ko": "발",
+    "img": "images/foot.png"
+  },
+  {
+    "round": 26,
+    "en": "for",
+    "ko": "~동안, ~을 위해",
+    "img": "images/for.png"
+  },
+  {
+    "round": 26,
+    "en": "forget",
+    "ko": "~을 잊다",
+    "img": "images/forget.png"
+  },
+  {
+    "round": 26,
+    "en": "fork",
+    "ko": "식탁용 포크, 갈림길",
+    "img": "images/fork.png"
+  },
+  {
+    "round": 26,
+    "en": "free",
+    "ko": "무료로 주는, 한가한, 여유 있는",
+    "img": "images/free.png"
+  },
+  {
+    "round": 26,
+    "en": "fresh",
+    "ko": "신선한, 새로운",
+    "img": "images/fresh.png"
+  },
+  {
+    "round": 27,
+    "en": "friend",
+    "ko": "친구",
+    "img": "images/friend.png"
+  },
+  {
+    "round": 27,
+    "en": "from",
+    "ko": "~에서, ~로부터",
+    "img": "images/from.png"
+  },
+  {
+    "round": 27,
+    "en": "front",
+    "ko": "앞",
+    "img": "images/front.png"
+  },
+  {
+    "round": 27,
+    "en": "fruit",
+    "ko": "과일",
+    "img": "images/fruit.png"
+  },
+  {
+    "round": 27,
+    "en": "full",
+    "ko": "가득 찬, 가득한",
+    "img": "images/full.png"
+  },
+  {
+    "round": 27,
+    "en": "fun",
+    "ko": "재미, 즐거움, 장난",
+    "img": "images/fun.png"
+  },
+  {
+    "round": 27,
+    "en": "game",
+    "ko": "놀이, 게임, 시합",
+    "img": "images/game.png"
+  },
+  {
+    "round": 27,
+    "en": "garden",
+    "ko": "정원",
+    "img": "images/garden.png"
+  },
+  {
+    "round": 27,
+    "en": "gas",
+    "ko": "휘발유, 기름",
+    "img": "images/gas.png"
+  },
+  {
+    "round": 27,
+    "en": "gate",
+    "ko": "문, 출입문",
+    "img": "images/gate.png"
+  },
+  {
+    "round": 28,
+    "en": "gentle",
+    "ko": "온화한, 상냥한",
+    "img": "images/gentle.png"
+  },
+  {
+    "round": 28,
+    "en": "get",
+    "ko": "~을 얻다, ~을 사다",
+    "img": "images/get.png"
+  },
+  {
+    "round": 28,
+    "en": "girl",
+    "ko": "소녀",
+    "img": "images/girl.png"
+  },
+  {
+    "round": 28,
+    "en": "give",
+    "ko": "~을 주다",
+    "img": "images/give.png"
+  },
+  {
+    "round": 28,
+    "en": "glad",
+    "ko": "즐거운, 기쁜, 기꺼이~하다",
+    "img": "images/glad.png"
+  },
+  {
+    "round": 28,
+    "en": "glass",
+    "ko": "유리, 잔",
+    "img": "images/glass.png"
+  },
+  {
+    "round": 28,
+    "en": "glove",
+    "ko": "장갑(의 한쪽)",
+    "img": "images/glove.png"
+  },
+  {
+    "round": 28,
+    "en": "go",
+    "ko": "가다",
+    "img": "images/go.png"
+  },
+  {
+    "round": 28,
+    "en": "god",
+    "ko": "신",
+    "img": "images/god.png"
+  },
+  {
+    "round": 28,
+    "en": "gold",
+    "ko": "황금, 금, 황금으로 만든",
+    "img": "images/gold.png"
+  },
+  {
+    "round": 29,
+    "en": "good",
+    "ko": "착한, 좋은",
+    "img": "images/good.png"
+  },
+  {
+    "round": 29,
+    "en": "grandma",
+    "ko": "할머니",
+    "img": "images/grandma.png"
+  },
+  {
+    "round": 29,
+    "en": "grape",
+    "ko": "포도",
+    "img": "images/grape.png"
+  },
+  {
+    "round": 29,
+    "en": "grass",
+    "ko": "풀, 잔디",
+    "img": "images/grass.png"
+  },
+  {
+    "round": 29,
+    "en": "gray",
+    "ko": "회색, 회색의",
+    "img": "images/gray.png"
+  },
+  {
+    "round": 29,
+    "en": "great",
+    "ko": "큰, 거대한, 웅장한, 재미있는, 신나는",
+    "img": "images/great.png"
+  },
+  {
+    "round": 29,
+    "en": "green",
+    "ko": "녹색, 녹색의",
+    "img": "images/green.png"
+  },
+  {
+    "round": 29,
+    "en": "ground",
+    "ko": "땅, 지면",
+    "img": "images/ground.png"
+  },
+  {
+    "round": 29,
+    "en": "group",
+    "ko": "모임, 집단, 무리",
+    "img": "images/group.png"
+  },
+  {
+    "round": 29,
+    "en": "grow",
+    "ko": "자라다, 성장하다, ~이 되다",
+    "img": "images/grow.png"
+  },
+  {
+    "round": 30,
+    "en": "guitar",
+    "ko": "기타",
+    "img": "images/guitar.png"
+  },
+  {
+    "round": 30,
+    "en": "hair",
+    "ko": "머리카락",
+    "img": "images/hair.png"
+  },
+  {
+    "round": 30,
+    "en": "half",
+    "ko": "반, 절반",
+    "img": "images/half.png"
+  },
+  {
+    "round": 30,
+    "en": "hall",
+    "ko": "공회당, 회관, 현관, 복도",
+    "img": "images/hall.png"
+  },
+  {
+    "round": 30,
+    "en": "hamburger",
+    "ko": "햄버거",
+    "img": "images/hamburger.png"
+  },
+  {
+    "round": 30,
+    "en": "hand",
+    "ko": "손, (시계의) 바늘",
+    "img": "images/hand.png"
+  },
+  {
+    "round": 30,
+    "en": "handle",
+    "ko": "~을 다루다, 처리하다, 손잡이",
+    "img": "images/handle.png"
+  },
+  {
+    "round": 30,
+    "en": "handsome",
+    "ko": "잘생긴",
+    "img": "images/handsome.png"
+  },
+  {
+    "round": 30,
+    "en": "happen",
+    "ko": "(사건이) 일어나다, 발생하다",
+    "img": "images/happen.png"
+  },
+  {
+    "round": 30,
+    "en": "happy",
+    "ko": "행복한",
+    "img": "images/happy.png"
+  },
+  {
+    "round": 31,
+    "en": "hard",
+    "ko": "어려운, 단단한, 열심히",
+    "img": "images/hard.png"
+  },
+  {
+    "round": 31,
+    "en": "hat",
+    "ko": "모자",
+    "img": "images/hat.png"
+  },
+  {
+    "round": 31,
+    "en": "hate",
+    "ko": "미워하다, 싫어하다",
+    "img": "images/hate.png"
+  },
+  {
+    "round": 31,
+    "en": "have",
+    "ko": "가지다, 가지고 있다, ~하다",
+    "img": "images/have.png"
+  },
+  {
+    "round": 31,
+    "en": "he",
+    "ko": "그가, 그는",
+    "img": "images/he.png"
+  },
+  {
+    "round": 31,
+    "en": "head",
+    "ko": "머리, 우두머리, 대표",
+    "img": "images/head.png"
+  },
+  {
+    "round": 31,
+    "en": "hear",
+    "ko": "~이 들리다, ~을 듣다",
+    "img": "images/hear.png"
+  },
+  {
+    "round": 31,
+    "en": "heart",
+    "ko": "심장, 가슴, 마음",
+    "img": "images/heart.png"
+  },
+  {
+    "round": 31,
+    "en": "heavy",
+    "ko": "무거운",
+    "img": "images/heavy.png"
+  },
+  {
+    "round": 31,
+    "en": "hello",
+    "ko": "(가벼운 인사) 안녕",
+    "img": "images/hello.png"
+  },
+  {
+    "round": 32,
+    "en": "help",
+    "ko": "~을 돕다",
+    "img": "images/help.png"
+  },
+  {
+    "round": 32,
+    "en": "hen",
+    "ko": "암탉",
+    "img": "images/hen.png"
+  },
+  {
+    "round": 32,
+    "en": "here",
+    "ko": "여기에서, 여기에",
+    "img": "images/here.png"
+  },
+  {
+    "round": 32,
+    "en": "hi",
+    "ko": "안녕",
+    "img": "images/hi.png"
+  },
+  {
+    "round": 32,
+    "en": "hide",
+    "ko": "숨다",
+    "img": "images/hide.png"
+  },
+  {
+    "round": 32,
+    "en": "high",
+    "ko": "높은, 높이, 높게",
+    "img": "images/high.png"
+  },
+  {
+    "round": 32,
+    "en": "hiking",
+    "ko": "하이킹, 도보여행",
+    "img": "images/hiking.png"
+  },
+  {
+    "round": 32,
+    "en": "hill",
+    "ko": "언덕",
+    "img": "images/hill.png"
+  },
+  {
+    "round": 32,
+    "en": "hit",
+    "ko": "~을 치다, 때리다",
+    "img": "images/hit.png"
+  },
+  {
+    "round": 32,
+    "en": "hold",
+    "ko": "~을 들다, 잡다, 쥐다",
+    "img": "images/hold.png"
+  },
+  {
+    "round": 33,
+    "en": "hole",
+    "ko": "구멍",
+    "img": "images/hole.png"
+  },
+  {
+    "round": 33,
+    "en": "holiday",
+    "ko": "공휴일, 휴일",
+    "img": "images/holiday.png"
+  },
+  {
+    "round": 33,
+    "en": "home",
+    "ko": "가정, 집",
+    "img": "images/home.png"
+  },
+  {
+    "round": 33,
+    "en": "hope",
+    "ko": "희망, 기대, ~을 바라다, 희망하다",
+    "img": "images/hope.png"
+  },
+  {
+    "round": 33,
+    "en": "horse",
+    "ko": "말",
+    "img": "images/horse.png"
+  },
+  {
+    "round": 33,
+    "en": "hose",
+    "ko": "호스",
+    "img": "images/hose.png"
+  },
+  {
+    "round": 33,
+    "en": "hospital",
+    "ko": "병원",
+    "img": "images/hospital.png"
+  },
+  {
+    "round": 33,
+    "en": "hot",
+    "ko": "뜨거운, 더운",
+    "img": "images/hot.png"
+  },
+  {
+    "round": 33,
+    "en": "hotel",
+    "ko": "호텔",
+    "img": "images/hotel.png"
+  },
+  {
+    "round": 33,
+    "en": "hour",
+    "ko": "시간",
+    "img": "images/hour.png"
+  },
+  {
+    "round": 34,
+    "en": "house",
+    "ko": "집",
+    "img": "images/house.png"
+  },
+  {
+    "round": 34,
+    "en": "how",
+    "ko": "어떻게, 어느 정도, 얼마만큼",
+    "img": "images/how.png"
+  },
+  {
+    "round": 34,
+    "en": "hundred",
+    "ko": "백, 백의",
+    "img": "images/hundred.png"
+  },
+  {
+    "round": 34,
+    "en": "hungry",
+    "ko": "배고픈, 굶주린",
+    "img": "images/hungry.png"
+  },
+  {
+    "round": 34,
+    "en": "hurry",
+    "ko": "서두르다, 급한 상태",
+    "img": "images/hurry.png"
+  },
+  {
+    "round": 34,
+    "en": "hurt",
+    "ko": "아프다, 다치다, 마음에 상처를 입다",
+    "img": "images/hurt.png"
+  },
+  {
+    "round": 34,
+    "en": "ice",
+    "ko": "얼음, 빙판",
+    "img": "images/ice.png"
+  },
+  {
+    "round": 34,
+    "en": "idea",
+    "ko": "생각",
+    "img": "images/idea.png"
+  },
+  {
+    "round": 34,
+    "en": "if",
+    "ko": "만일~라면",
+    "img": "images/if.png"
+  },
+  {
+    "round": 34,
+    "en": "ill",
+    "ko": "병든, 건강이 나쁜",
+    "img": "images/ill.png"
+  },
+  {
+    "round": 35,
+    "en": "in",
+    "ko": "~안에(서)",
+    "img": "images/in.png"
+  },
+  {
+    "round": 35,
+    "en": "ink",
+    "ko": "잉크",
+    "img": "images/ink.png"
+  },
+  {
+    "round": 35,
+    "en": "interest",
+    "ko": "관심, 흥미",
+    "img": "images/interest.png"
+  },
+  {
+    "round": 35,
+    "en": "into",
+    "ko": "~안으로, ~속으로",
+    "img": "images/into.png"
+  },
+  {
+    "round": 35,
+    "en": "introduce",
+    "ko": "~를 소개하다",
+    "img": "images/introduce.png"
+  },
+  {
+    "round": 35,
+    "en": "island",
+    "ko": "섬",
+    "img": "images/island.png"
+  },
+  {
+    "round": 35,
+    "en": "it",
+    "ko": "그것, 날씨를 나타낼 때, 사람을 나타낼 때",
+    "img": "images/it.png"
+  },
+  {
+    "round": 35,
+    "en": "jet",
+    "ko": "제트기",
+    "img": "images/jet.png"
+  },
+  {
+    "round": 35,
+    "en": "job",
+    "ko": "일, 직업",
+    "img": "images/job.png"
+  },
+  {
+    "round": 35,
+    "en": "join",
+    "ko": "~참가하다",
+    "img": "images/join.png"
+  },
+  {
+    "round": 36,
+    "en": "juice",
+    "ko": "주스",
+    "img": "images/juice.png"
+  },
+  {
+    "round": 36,
+    "en": "jump",
+    "ko": "뛰다, 뛰어오르다",
+    "img": "images/jump.png"
+  },
+  {
+    "round": 36,
+    "en": "jungle",
+    "ko": "밀림, 정글",
+    "img": "images/jungle.png"
+  },
+  {
+    "round": 36,
+    "en": "just",
+    "ko": "바로, 금방, 조금 전에",
+    "img": "images/just.png"
+  },
+  {
+    "round": 36,
+    "en": "keep",
+    "ko": "~을 지니다, 가지다",
+    "img": "images/keep.png"
+  },
+  {
+    "round": 36,
+    "en": "key",
+    "ko": "열쇠",
+    "img": "images/key.png"
+  },
+  {
+    "round": 36,
+    "en": "kick",
+    "ko": "차다",
+    "img": "images/kick.png"
+  },
+  {
+    "round": 36,
+    "en": "kid",
+    "ko": "어린아이, 농담하다",
+    "img": "images/kid.png"
+  },
+  {
+    "round": 36,
+    "en": "kill",
+    "ko": "죽이다, (시간을) 보내다",
+    "img": "images/kill.png"
+  },
+  {
+    "round": 36,
+    "en": "kind",
+    "ko": "종류, 친절한",
+    "img": "images/kind.png"
+  },
+  {
+    "round": 37,
+    "en": "king",
+    "ko": "왕, 임금",
+    "img": "images/king.png"
+  },
+  {
+    "round": 37,
+    "en": "kitchen",
+    "ko": "부엌",
+    "img": "images/kitchen.png"
+  },
+  {
+    "round": 37,
+    "en": "knee",
+    "ko": "무릎",
+    "img": "images/knee.png"
+  },
+  {
+    "round": 37,
+    "en": "knife",
+    "ko": "칼, (식탁의) 나이프",
+    "img": "images/knife.png"
+  },
+  {
+    "round": 37,
+    "en": "knock",
+    "ko": "(문을)두드리다, 노크하다",
+    "img": "images/knock.png"
+  },
+  {
+    "round": 37,
+    "en": "know",
+    "ko": "~를 알다",
+    "img": "images/know.png"
+  },
+  {
+    "round": 37,
+    "en": "lady",
+    "ko": "숙녀, 귀부인",
+    "img": "images/lady.png"
+  },
+  {
+    "round": 37,
+    "en": "lake",
+    "ko": "호수",
+    "img": "images/lake.png"
+  },
+  {
+    "round": 37,
+    "en": "lamp",
+    "ko": "등, 램프",
+    "img": "images/lamp.png"
+  },
+  {
+    "round": 37,
+    "en": "land",
+    "ko": "육지, 땅",
+    "img": "images/land.png"
+  },
+  {
+    "round": 38,
+    "en": "large",
+    "ko": "큰, 커다란",
+    "img": "images/large.png"
+  },
+  {
+    "round": 38,
+    "en": "last",
+    "ko": "마지막의, 최후의, 지난, 앞선",
+    "img": "images/last.png"
+  },
+  {
+    "round": 38,
+    "en": "late",
+    "ko": "늦은",
+    "img": "images/late.png"
+  },
+  {
+    "round": 38,
+    "en": "laugh",
+    "ko": "웃다",
+    "img": "images/laugh.png"
+  },
+  {
+    "round": 38,
+    "en": "lead",
+    "ko": "이끌다, 안내하다",
+    "img": "images/lead.png"
+  },
+  {
+    "round": 38,
+    "en": "leaf",
+    "ko": "나뭇잎, 잎사귀",
+    "img": "images/leaf.png"
+  },
+  {
+    "round": 38,
+    "en": "learn",
+    "ko": "~을 배우다, 익히다",
+    "img": "images/learn.png"
+  },
+  {
+    "round": 38,
+    "en": "leave",
+    "ko": "떠나다, 작별하다",
+    "img": "images/leave.png"
+  },
+  {
+    "round": 38,
+    "en": "left",
+    "ko": "왼쪽, leave의 과거·과거 분사형",
+    "img": "images/left.png"
+  },
+  {
+    "round": 38,
+    "en": "leg",
+    "ko": "다리",
+    "img": "images/leg.png"
+  },
+  {
+    "round": 39,
+    "en": "lesson",
+    "ko": "(교과서) 과, 수업, 레슨",
+    "img": "images/lesson.png"
+  },
+  {
+    "round": 39,
+    "en": "let",
+    "ko": "~하게 하다, ~시키다",
+    "img": "images/let.png"
+  },
+  {
+    "round": 39,
+    "en": "letter",
+    "ko": "글자, 편지",
+    "img": "images/letter.png"
+  },
+  {
+    "round": 39,
+    "en": "library",
+    "ko": "도서관",
+    "img": "images/library.png"
+  },
+  {
+    "round": 39,
+    "en": "lie",
+    "ko": "거짓말, 눕다",
+    "img": "images/lie.png"
+  },
+  {
+    "round": 39,
+    "en": "light",
+    "ko": "빛, 불을 붙이다, 가벼운",
+    "img": "images/light.png"
+  },
+  {
+    "round": 39,
+    "en": "like",
+    "ko": "좋아하다, ~와 같은, ~와 닮은",
+    "img": "images/like.png"
+  },
+  {
+    "round": 39,
+    "en": "line",
+    "ko": "선, 줄",
+    "img": "images/line.png"
+  },
+  {
+    "round": 39,
+    "en": "lion",
+    "ko": "사자",
+    "img": "images/lion.png"
+  },
+  {
+    "round": 39,
+    "en": "lip",
+    "ko": "입술",
+    "img": "images/lip.png"
+  },
+  {
+    "round": 40,
+    "en": "list",
+    "ko": "표, 목록",
+    "img": "images/list.png"
+  },
+  {
+    "round": 40,
+    "en": "listen",
+    "ko": "듣다, 귀를 기울이다",
+    "img": "images/listen.png"
+  },
+  {
+    "round": 40,
+    "en": "long",
+    "ko": "(물건의 길이가) 긴, 길쭉한, (시간이) 긴, 오랫동안",
+    "img": "images/long.png"
+  },
+  {
+    "round": 40,
+    "en": "look",
+    "ko": "찾다, 보다, 바라보다",
+    "img": "images/look.png"
+  },
+  {
+    "round": 40,
+    "en": "lose",
+    "ko": "잃다, 지다, 패배하다",
+    "img": "images/lose.png"
+  },
+  {
+    "round": 40,
+    "en": "lot",
+    "ko": "많음, 다량",
+    "img": "images/lot.png"
+  },
+  {
+    "round": 40,
+    "en": "loud",
+    "ko": "소리가 큰, 시끄러운",
+    "img": "images/loud.png"
+  },
+  {
+    "round": 40,
+    "en": "love",
+    "ko": "사랑하다, 아주 좋아하다, 사랑",
+    "img": "images/love.png"
+  },
+  {
+    "round": 40,
+    "en": "low",
+    "ko": "낮은",
+    "img": "images/low.png"
+  },
+  {
+    "round": 40,
+    "en": "luck",
+    "ko": "운, 행운",
+    "img": "images/luck.png"
+  },
+  {
+    "round": 41,
+    "en": "lunch",
+    "ko": "점심",
+    "img": "images/lunch.png"
+  },
+  {
+    "round": 41,
+    "en": "make",
+    "ko": "~을 만들다",
+    "img": "images/make.png"
+  },
+  {
+    "round": 41,
+    "en": "man",
+    "ko": "남자, 사람, 인간",
+    "img": "images/man.png"
+  },
+  {
+    "round": 41,
+    "en": "many",
+    "ko": "많은, 다수의",
+    "img": "images/many.png"
+  },
+  {
+    "round": 41,
+    "en": "map",
+    "ko": "지도",
+    "img": "images/map.png"
+  },
+  {
+    "round": 41,
+    "en": "march",
+    "ko": "행진하다",
+    "img": "images/march.png"
+  },
+  {
+    "round": 41,
+    "en": "market",
+    "ko": "시장",
+    "img": "images/market.png"
+  },
+  {
+    "round": 41,
+    "en": "marry",
+    "ko": "결혼하다",
+    "img": "images/marry.png"
+  },
+  {
+    "round": 41,
+    "en": "matter",
+    "ko": "일, 사정, 상황, 중요하다, 문제가 되다",
+    "img": "images/matter.png"
+  },
+  {
+    "round": 41,
+    "en": "may",
+    "ko": "~해도 좋다(허락), ~일지도 모른다(추측)",
+    "img": "images/may.png"
+  },
+  {
+    "round": 42,
+    "en": "meat",
+    "ko": "고기",
+    "img": "images/meat.png"
+  },
+  {
+    "round": 42,
+    "en": "medal",
+    "ko": "메달, 훈장",
+    "img": "images/medal.png"
+  },
+  {
+    "round": 42,
+    "en": "meet",
+    "ko": "만나다",
+    "img": "images/meet.png"
+  },
+  {
+    "round": 42,
+    "en": "melon",
+    "ko": "멜론, 참외",
+    "img": "images/melon.png"
+  },
+  {
+    "round": 42,
+    "en": "meter",
+    "ko": "(길이·거리의 측정 단위) 미터",
+    "img": "images/meter.png"
+  },
+  {
+    "round": 42,
+    "en": "middle",
+    "ko": "중간, 중앙",
+    "img": "images/middle.png"
+  },
+  {
+    "round": 42,
+    "en": "milk",
+    "ko": "우유",
+    "img": "images/milk.png"
+  },
+  {
+    "round": 42,
+    "en": "million",
+    "ko": "백만",
+    "img": "images/million.png"
+  },
+  {
+    "round": 42,
+    "en": "minute",
+    "ko": "(시간의) 분, 잠깐",
+    "img": "images/minute.png"
+  },
+  {
+    "round": 42,
+    "en": "mirror",
+    "ko": "거울",
+    "img": "images/mirror.png"
+  },
+  {
+    "round": 43,
+    "en": "Miss.",
+    "ko": "~양, 미스~",
+    "img": "images/Miss.png"
+  },
+  {
+    "round": 43,
+    "en": "model",
+    "ko": "모델",
+    "img": "images/model.png"
+  },
+  {
+    "round": 43,
+    "en": "mom",
+    "ko": "엄마",
+    "img": "images/mom.png"
+  },
+  {
+    "round": 43,
+    "en": "money",
+    "ko": "돈",
+    "img": "images/money.png"
+  },
+  {
+    "round": 43,
+    "en": "monkey",
+    "ko": "원숭이",
+    "img": "images/monkey.png"
+  },
+  {
+    "round": 43,
+    "en": "month",
+    "ko": "달, 개월",
+    "img": "images/month.png"
+  },
+  {
+    "round": 43,
+    "en": "moon",
+    "ko": "달",
+    "img": "images/moon.png"
+  },
+  {
+    "round": 43,
+    "en": "morning",
+    "ko": "아침, 오전",
+    "img": "images/morning.png"
+  },
+  {
+    "round": 43,
+    "en": "mother",
+    "ko": "어머니",
+    "img": "images/mother.png"
+  },
+  {
+    "round": 43,
+    "en": "mountain",
+    "ko": "산",
+    "img": "images/mountain.png"
+  },
+  {
+    "round": 44,
+    "en": "mouth",
+    "ko": "입",
+    "img": "images/mouth.png"
+  },
+  {
+    "round": 44,
+    "en": "move",
+    "ko": "움직이다",
+    "img": "images/move.png"
+  },
+  {
+    "round": 44,
+    "en": "movie",
+    "ko": "영화",
+    "img": "images/movie.png"
+  },
+  {
+    "round": 44,
+    "en": "Mr.",
+    "ko": "~씨, ~선생님",
+    "img": "images/Mr.png"
+  },
+  {
+    "round": 44,
+    "en": "Mrs.",
+    "ko": "~씨 부인, ~선생님",
+    "img": "images/Mrs.png"
+  },
+  {
+    "round": 44,
+    "en": "much",
+    "ko": "많은",
+    "img": "images/much.png"
+  },
+  {
+    "round": 44,
+    "en": "music",
+    "ko": "음악",
+    "img": "images/music.png"
+  },
+  {
+    "round": 44,
+    "en": "must",
+    "ko": "~해야 한다, ~임에 틀림없다",
+    "img": "images/must.png"
+  },
+  {
+    "round": 44,
+    "en": "neck",
+    "ko": "목",
+    "img": "images/neck.png"
+  },
+  {
+    "round": 44,
+    "en": "need",
+    "ko": "~가 필요하다, ~을 필요로 하다",
+    "img": "images/need.png"
+  },
+  {
+    "round": 45,
+    "en": "never",
+    "ko": "결코~않다",
+    "img": "images/never.png"
+  },
+  {
+    "round": 45,
+    "en": "new",
+    "ko": "새로운",
+    "img": "images/new.png"
+  },
+  {
+    "round": 45,
+    "en": "news",
+    "ko": "뉴스, 소식",
+    "img": "images/news.png"
+  },
+  {
+    "round": 45,
+    "en": "next",
+    "ko": "(to와 함께) ~의 옆에, 다음의",
+    "img": "images/next.png"
+  },
+  {
+    "round": 45,
+    "en": "nice",
+    "ko": "좋은, 멋진, 친절한",
+    "img": "images/nice.png"
+  },
+  {
+    "round": 45,
+    "en": "night",
+    "ko": "밤",
+    "img": "images/night.png"
+  },
+  {
+    "round": 45,
+    "en": "no",
+    "ko": "(대답에서) 아니오, 하나도~없는",
+    "img": "images/no.png"
+  },
+  {
+    "round": 45,
+    "en": "noise",
+    "ko": "소음, 소리",
+    "img": "images/noise.png"
+  },
+  {
+    "round": 45,
+    "en": "north",
+    "ko": "북쪽",
+    "img": "images/north.png"
+  },
+  {
+    "round": 45,
+    "en": "nose",
+    "ko": "코",
+    "img": "images/nose.png"
+  },
+  {
+    "round": 46,
+    "en": "not",
+    "ko": "~아니다",
+    "img": "images/not.png"
+  },
+  {
+    "round": 46,
+    "en": "note",
+    "ko": "짧은 기록, 메모",
+    "img": "images/note.png"
+  },
+  {
+    "round": 46,
+    "en": "now",
+    "ko": "지금, 현재",
+    "img": "images/now.png"
+  },
+  {
+    "round": 46,
+    "en": "number",
+    "ko": "수, 숫자",
+    "img": "images/number.png"
+  },
+  {
+    "round": 46,
+    "en": "nurse",
+    "ko": "간호사",
+    "img": "images/nurse.png"
+  },
+  {
+    "round": 46,
+    "en": "o'clock",
+    "ko": "~시",
+    "img": "images/o'clock.png"
+  },
+  {
+    "round": 46,
+    "en": "of",
+    "ko": "~의, ~중에서, ~로 만든",
+    "img": "images/of.png"
+  },
+  {
+    "round": 46,
+    "en": "off",
+    "ko": "(옷·신발 등을) 벗고, 멀리, (전기·가스 등을) 꺼 놓고",
+    "img": "images/off.png"
+  },
+  {
+    "round": 46,
+    "en": "office",
+    "ko": "사무실",
+    "img": "images/office.png"
+  },
+  {
+    "round": 46,
+    "en": "often",
+    "ko": "흔히, 자주",
+    "img": "images/often.png"
+  },
+  {
+    "round": 47,
+    "en": "oh",
+    "ko": "아, 아이구",
+    "img": "images/oh.png"
+  },
+  {
+    "round": 47,
+    "en": "oil",
+    "ko": "기름, 유화, 유화물감",
+    "img": "images/oil.png"
+  },
+  {
+    "round": 47,
+    "en": "OK",
+    "ko": "좋아요, 됐어요",
+    "img": "images/OK.png"
+  },
+  {
+    "round": 47,
+    "en": "old",
+    "ko": "낡은, 오래된, (나이가) ~살인, 늙은, 나이든",
+    "img": "images/old.png"
+  },
+  {
+    "round": 47,
+    "en": "on",
+    "ko": "~위에",
+    "img": "images/on.png"
+  },
+  {
+    "round": 47,
+    "en": "once",
+    "ko": "이전에, 옛날에, 한번, 일단~하고 나면",
+    "img": "images/once.png"
+  },
+  {
+    "round": 47,
+    "en": "open",
+    "ko": "~을 열다, 열려 있는",
+    "img": "images/open.png"
+  },
+  {
+    "round": 47,
+    "en": "or",
+    "ko": "또는, 혹은",
+    "img": "images/or.png"
+  },
+  {
+    "round": 47,
+    "en": "orange",
+    "ko": "오렌지",
+    "img": "images/orange.png"
+  },
+  {
+    "round": 47,
+    "en": "other",
+    "ko": "다른, 그 밖의",
+    "img": "images/other.png"
+  },
+  {
+    "round": 48,
+    "en": "out",
+    "ko": "밖에, 밖으로",
+    "img": "images/out.png"
+  },
+  {
+    "round": 48,
+    "en": "over",
+    "ko": "~위에, 끝난",
+    "img": "images/over.png"
+  },
+  {
+    "round": 48,
+    "en": "page",
+    "ko": "페이지, 쪽",
+    "img": "images/page.png"
+  },
+  {
+    "round": 48,
+    "en": "paint",
+    "ko": "페인트, 페인트를 칠하다, 그림 그리다",
+    "img": "images/paint.png"
+  },
+  {
+    "round": 48,
+    "en": "pair",
+    "ko": "한 쌍, 한 벌, 한 켤레",
+    "img": "images/pair.png"
+  },
+  {
+    "round": 48,
+    "en": "pants",
+    "ko": "바지",
+    "img": "images/pants.png"
+  },
+  {
+    "round": 48,
+    "en": "paper",
+    "ko": "종이, 신문",
+    "img": "images/paper.png"
+  },
+  {
+    "round": 48,
+    "en": "pardon",
+    "ko": "용서, 허락, ~를 용서하다, 봐주다",
+    "img": "images/pardon.png"
+  },
+  {
+    "round": 48,
+    "en": "parent",
+    "ko": "부모 중의 어느 한 편",
+    "img": "images/parent.png"
+  },
+  {
+    "round": 48,
+    "en": "park",
+    "ko": "공원, 유원지",
+    "img": "images/park.png"
+  },
+  {
+    "round": 49,
+    "en": "party",
+    "ko": "파티, 모임",
+    "img": "images/party.png"
+  },
+  {
+    "round": 49,
+    "en": "pass",
+    "ko": "(시간이) 지나다, ~을 건네주다, (시험에) 합격하다",
+    "img": "images/pass.png"
+  },
+  {
+    "round": 49,
+    "en": "pay",
+    "ko": "(돈을) 지불하다",
+    "img": "images/pay.png"
+  },
+  {
+    "round": 49,
+    "en": "peace",
+    "ko": "평화",
+    "img": "images/peace.png"
+  },
+  {
+    "round": 49,
+    "en": "pear",
+    "ko": "배",
+    "img": "images/pear.png"
+  },
+  {
+    "round": 49,
+    "en": "pen",
+    "ko": "펜",
+    "img": "images/pen.png"
+  },
+  {
+    "round": 49,
+    "en": "pencil",
+    "ko": "연필",
+    "img": "images/pencil.png"
+  },
+  {
+    "round": 49,
+    "en": "people",
+    "ko": "사람들",
+    "img": "images/people.png"
+  },
+  {
+    "round": 49,
+    "en": "piano",
+    "ko": "피아노",
+    "img": "images/piano.png"
+  },
+  {
+    "round": 49,
+    "en": "pick",
+    "ko": "(꽃·과일 따위를) 꺾다, 따다",
+    "img": "images/pick.png"
+  },
+  {
+    "round": 50,
+    "en": "picnic",
+    "ko": "소풍, 피크닉",
+    "img": "images/picnic.png"
+  },
+  {
+    "round": 50,
+    "en": "picture",
+    "ko": "그림, 사진",
+    "img": "images/picture.png"
+  },
+  {
+    "round": 50,
+    "en": "piece",
+    "ko": "단편, 한 조각",
+    "img": "images/piece.png"
+  },
+  {
+    "round": 50,
+    "en": "pig",
+    "ko": "돼지",
+    "img": "images/pig.png"
+  },
+  {
+    "round": 50,
+    "en": "pilot",
+    "ko": "조종사",
+    "img": "images/pilot.png"
+  },
+  {
+    "round": 50,
+    "en": "pin",
+    "ko": "핀",
+    "img": "images/pin.png"
+  },
+  {
+    "round": 50,
+    "en": "pine",
+    "ko": "솔, 소나무",
+    "img": "images/pine.png"
+  },
+  {
+    "round": 50,
+    "en": "pink",
+    "ko": "연분홍색, 핑크색",
+    "img": "images/pink.png"
+  },
+  {
+    "round": 50,
+    "en": "pipe",
+    "ko": "관, 파이프, 파이프 담배",
+    "img": "images/pipe.png"
+  },
+  {
+    "round": 50,
+    "en": "place",
+    "ko": "장소, 곳",
+    "img": "images/place.png"
+  },
+  {
+    "round": 51,
+    "en": "plan",
+    "ko": "계획",
+    "img": "images/plan.png"
+  },
+  {
+    "round": 51,
+    "en": "plane",
+    "ko": "비행기",
+    "img": "images/plane.png"
+  },
+  {
+    "round": 51,
+    "en": "plant",
+    "ko": "식물, ~을 심다",
+    "img": "images/plant.png"
+  },
+  {
+    "round": 51,
+    "en": "play",
+    "ko": "놀다, (운동 경기를) 하다, 연주하다",
+    "img": "images/play.png"
+  },
+  {
+    "round": 51,
+    "en": "please",
+    "ko": "제발, 미안하지만, ~를 기쁘게 하다",
+    "img": "images/please.png"
+  },
+  {
+    "round": 51,
+    "en": "pocket",
+    "ko": "주머니",
+    "img": "images/pocket.png"
+  },
+  {
+    "round": 51,
+    "en": "point",
+    "ko": "(뾰족한)끝, ~를 가리키다",
+    "img": "images/point.png"
+  },
+  {
+    "round": 51,
+    "en": "police",
+    "ko": "경찰",
+    "img": "images/police.png"
+  },
+  {
+    "round": 51,
+    "en": "pool",
+    "ko": "수영장, 웅덩이",
+    "img": "images/pool.png"
+  },
+  {
+    "round": 51,
+    "en": "poor",
+    "ko": "가난한",
+    "img": "images/poor.png"
+  },
+  {
+    "round": 52,
+    "en": "post",
+    "ko": "우편물을 부치다, 우편물",
+    "img": "images/post.png"
+  },
+  {
+    "round": 52,
+    "en": "poster",
+    "ko": "포스터",
+    "img": "images/poster.png"
+  },
+  {
+    "round": 52,
+    "en": "potato",
+    "ko": "감자",
+    "img": "images/potato.png"
+  },
+  {
+    "round": 52,
+    "en": "practice",
+    "ko": "연습, 연습하다",
+    "img": "images/practice.png"
+  },
+  {
+    "round": 52,
+    "en": "present",
+    "ko": "현재, 참석한, 출석한, 선물",
+    "img": "images/present.png"
+  },
+  {
+    "round": 52,
+    "en": "pretty",
+    "ko": "예쁜, 귀여운",
+    "img": "images/pretty.png"
+  },
+  {
+    "round": 52,
+    "en": "print",
+    "ko": "인쇄, 인쇄하다, 발행하다, (프린터에서) 프린트하다",
+    "img": "images/print.png"
+  },
+  {
+    "round": 52,
+    "en": "problem",
+    "ko": "문제",
+    "img": "images/problem.png"
+  },
+  {
+    "round": 52,
+    "en": "pull",
+    "ko": "~을 끌다, 잡아당기다",
+    "img": "images/pull.png"
+  },
+  {
+    "round": 52,
+    "en": "push",
+    "ko": "~을 밀다",
+    "img": "images/push.png"
+  },
+  {
+    "round": 53,
+    "en": "put",
+    "ko": "~을 놓다, 두다",
+    "img": "images/put.png"
+  },
+  {
+    "round": 53,
+    "en": "queen",
+    "ko": "왕비, 여왕",
+    "img": "images/queen.png"
+  },
+  {
+    "round": 53,
+    "en": "question",
+    "ko": "물음, 질문",
+    "img": "images/question.png"
+  },
+  {
+    "round": 53,
+    "en": "quick",
+    "ko": "빠른",
+    "img": "images/quick.png"
+  },
+  {
+    "round": 53,
+    "en": "quiet",
+    "ko": "조용한, 고요한",
+    "img": "images/quiet.png"
+  },
+  {
+    "round": 53,
+    "en": "radio",
+    "ko": "라디오",
+    "img": "images/radio.png"
+  },
+  {
+    "round": 53,
+    "en": "rain",
+    "ko": "비, 비가 오다",
+    "img": "images/rain.png"
+  },
+  {
+    "round": 53,
+    "en": "rainbow",
+    "ko": "무지개",
+    "img": "images/rainbow.png"
+  },
+  {
+    "round": 53,
+    "en": "read",
+    "ko": "읽다",
+    "img": "images/read.png"
+  },
+  {
+    "round": 53,
+    "en": "ready",
+    "ko": "준비된",
+    "img": "images/ready.png"
+  },
+  {
+    "round": 54,
+    "en": "real",
+    "ko": "진짜의, 정말의",
+    "img": "images/real.png"
+  },
+  {
+    "round": 54,
+    "en": "record",
+    "ko": "기록, 기록하다",
+    "img": "images/record.png"
+  },
+  {
+    "round": 54,
+    "en": "red",
+    "ko": "빨간, 붉은색의",
+    "img": "images/red.png"
+  },
+  {
+    "round": 54,
+    "en": "remember",
+    "ko": "기억하다",
+    "img": "images/remember.png"
+  },
+  {
+    "round": 54,
+    "en": "repeat",
+    "ko": "되풀이하다, 반복하다",
+    "img": "images/repeat.png"
+  },
+  {
+    "round": 54,
+    "en": "rest",
+    "ko": "휴식, 잠, 쉬다, 휴식하다",
+    "img": "images/rest.png"
+  },
+  {
+    "round": 54,
+    "en": "restaurant",
+    "ko": "식당, 음식점",
+    "img": "images/restaurant.png"
+  },
+  {
+    "round": 54,
+    "en": "return",
+    "ko": "~로 돌아가다, 돌아오다, ~을 돌려주다, 반납하다",
+    "img": "images/return.png"
+  },
+  {
+    "round": 54,
+    "en": "ribbon",
+    "ko": "리본, 장식용 띠",
+    "img": "images/ribbon.png"
+  },
+  {
+    "round": 54,
+    "en": "rice",
+    "ko": "쌀, 밥",
+    "img": "images/rice.png"
+  },
+  {
+    "round": 55,
+    "en": "rich",
+    "ko": "돈 많은, 부자의",
+    "img": "images/rich.png"
+  },
+  {
+    "round": 55,
+    "en": "ride",
+    "ko": "타다, (자동차를) 태워 주기",
+    "img": "images/ride.png"
+  },
+  {
+    "round": 55,
+    "en": "right",
+    "ko": "오른쪽, 옳은",
+    "img": "images/right.png"
+  },
+  {
+    "round": 55,
+    "en": "ring",
+    "ko": "반지, (종·벨이) 울리다, (종·벨을) 치다",
+    "img": "images/ring.png"
+  },
+  {
+    "round": 55,
+    "en": "river",
+    "ko": "강",
+    "img": "images/river.png"
+  },
+  {
+    "round": 55,
+    "en": "road",
+    "ko": "길, 도로",
+    "img": "images/road.png"
+  },
+  {
+    "round": 55,
+    "en": "robot",
+    "ko": "로봇",
+    "img": "images/robot.png"
+  },
+  {
+    "round": 55,
+    "en": "rock",
+    "ko": "바위, 작은 돌",
+    "img": "images/rock.png"
+  },
+  {
+    "round": 55,
+    "en": "rocket",
+    "ko": "로켓",
+    "img": "images/rocket.png"
+  },
+  {
+    "round": 55,
+    "en": "roll",
+    "ko": "~를 굴리다, 구르다",
+    "img": "images/roll.png"
+  },
+  {
+    "round": 56,
+    "en": "roof",
+    "ko": "지붕",
+    "img": "images/roof.png"
+  },
+  {
+    "round": 56,
+    "en": "room",
+    "ko": "방",
+    "img": "images/room.png"
+  },
+  {
+    "round": 56,
+    "en": "rose",
+    "ko": "장미, rise의 과거형",
+    "img": "images/rose.png"
+  },
+  {
+    "round": 56,
+    "en": "round",
+    "ko": "둥근, 원형의",
+    "img": "images/round.png"
+  },
+  {
+    "round": 56,
+    "en": "ruler",
+    "ko": "자",
+    "img": "images/ruler.png"
+  },
+  {
+    "round": 56,
+    "en": "run",
+    "ko": "달리다, 작동하다, 움직이다",
+    "img": "images/run.png"
+  },
+  {
+    "round": 56,
+    "en": "same",
+    "ko": "같은 것, 같은, 똑같은",
+    "img": "images/same.png"
+  },
+  {
+    "round": 56,
+    "en": "sand",
+    "ko": "모래",
+    "img": "images/sand.png"
+  },
+  {
+    "round": 56,
+    "en": "say",
+    "ko": "말하다",
+    "img": "images/say.png"
+  },
+  {
+    "round": 56,
+    "en": "school",
+    "ko": "학교",
+    "img": "images/school.png"
+  },
+  {
+    "round": 57,
+    "en": "scissors",
+    "ko": "가위",
+    "img": "images/scissors.png"
+  },
+  {
+    "round": 57,
+    "en": "score",
+    "ko": "점수, 득점",
+    "img": "images/score.png"
+  },
+  {
+    "round": 57,
+    "en": "sea",
+    "ko": "바다",
+    "img": "images/sea.png"
+  },
+  {
+    "round": 57,
+    "en": "season",
+    "ko": "계절",
+    "img": "images/season.png"
+  },
+  {
+    "round": 57,
+    "en": "seat",
+    "ko": "자리, 좌석",
+    "img": "images/seat.png"
+  },
+  {
+    "round": 57,
+    "en": "see",
+    "ko": "보다",
+    "img": "images/see.png"
+  },
+  {
+    "round": 57,
+    "en": "sell",
+    "ko": "~을 팔다",
+    "img": "images/sell.png"
+  },
+  {
+    "round": 57,
+    "en": "send",
+    "ko": "~을 보내다",
+    "img": "images/send.png"
+  },
+  {
+    "round": 57,
+    "en": "service",
+    "ko": "서비스, 손님 시중, 예배, 교통편, 군대",
+    "img": "images/service.png"
+  },
+  {
+    "round": 57,
+    "en": "set",
+    "ko": "~을 두다, 놓다, (시간·장소·가격 등을) 정하다, (해·달이) 지다, (기구의) 한 벌, 세트",
+    "img": "images/set.png"
+  },
+  {
+    "round": 58,
+    "en": "shall",
+    "ko": "~하겠다, ~할까요",
+    "img": "images/shall.png"
+  },
+  {
+    "round": 58,
+    "en": "shape",
+    "ko": "모양",
+    "img": "images/shape.png"
+  },
+  {
+    "round": 58,
+    "en": "she",
+    "ko": "그녀는, 그녀가",
+    "img": "images/she.png"
+  },
+  {
+    "round": 58,
+    "en": "sheep",
+    "ko": "양",
+    "img": "images/sheep.png"
+  },
+  {
+    "round": 58,
+    "en": "sheet",
+    "ko": "종이, (침대의) 시트",
+    "img": "images/sheet.png"
+  },
+  {
+    "round": 58,
+    "en": "ship",
+    "ko": "배",
+    "img": "images/ship.png"
+  },
+  {
+    "round": 58,
+    "en": "shirt",
+    "ko": "셔츠",
+    "img": "images/shirt.png"
+  },
+  {
+    "round": 58,
+    "en": "shoe",
+    "ko": "신발",
+    "img": "images/shoe.png"
+  },
+  {
+    "round": 58,
+    "en": "shoot",
+    "ko": "쏘다, 발사하다, (카메라를) 누르다",
+    "img": "images/shoot.png"
+  },
+  {
+    "round": 58,
+    "en": "shop",
+    "ko": "상점, 가계, 장을 보다, 물건을 사다",
+    "img": "images/shop.png"
+  },
+  {
+    "round": 59,
+    "en": "short",
+    "ko": "(길이·거리·시간이) 짧은, (키가) 작은",
+    "img": "images/short.png"
+  },
+  {
+    "round": 59,
+    "en": "shoulder",
+    "ko": "어깨",
+    "img": "images/shoulder.png"
+  },
+  {
+    "round": 59,
+    "en": "shout",
+    "ko": "외치다, 소리치다",
+    "img": "images/shout.png"
+  },
+  {
+    "round": 59,
+    "en": "show",
+    "ko": "보여주다, 구경거리, 쇼, 전시회",
+    "img": "images/show.png"
+  },
+  {
+    "round": 59,
+    "en": "shower",
+    "ko": "소나기, 샤워, (일종의) 파티",
+    "img": "images/shower.png"
+  },
+  {
+    "round": 59,
+    "en": "shut",
+    "ko": "~을 닫다, 잠그다",
+    "img": "images/shut.png"
+  },
+  {
+    "round": 59,
+    "en": "sick",
+    "ko": "병든, 병난",
+    "img": "images/sick.png"
+  },
+  {
+    "round": 59,
+    "en": "side",
+    "ko": "옆, 측면, 쪽",
+    "img": "images/side.png"
+  },
+  {
+    "round": 59,
+    "en": "sight",
+    "ko": "시력, 언뜻 보기, 풍경, 광경",
+    "img": "images/sight.png"
+  },
+  {
+    "round": 59,
+    "en": "sign",
+    "ko": "표지, 기호, 표시",
+    "img": "images/sign.png"
+  },
+  {
+    "round": 60,
+    "en": "silver",
+    "ko": "은색의, 은",
+    "img": "images/silver.png"
+  },
+  {
+    "round": 60,
+    "en": "sing",
+    "ko": "노래하다",
+    "img": "images/sing.png"
+  },
+  {
+    "round": 60,
+    "en": "sir",
+    "ko": "님, 귀하, 선생님(남성에 대한 경칭)",
+    "img": "images/sir.png"
+  },
+  {
+    "round": 60,
+    "en": "sister",
+    "ko": "여동생, 누나, 언니",
+    "img": "images/sister.png"
+  },
+  {
+    "round": 60,
+    "en": "sit",
+    "ko": "앉다",
+    "img": "images/sit.png"
+  },
+  {
+    "round": 60,
+    "en": "size",
+    "ko": "크기, 치수",
+    "img": "images/size.png"
+  },
+  {
+    "round": 60,
+    "en": "skate",
+    "ko": "스케이트, 스케이트 타다",
+    "img": "images/skate.png"
+  },
+  {
+    "round": 60,
+    "en": "skirt",
+    "ko": "치마, 스커트",
+    "img": "images/skirt.png"
+  },
+  {
+    "round": 60,
+    "en": "sky",
+    "ko": "하늘",
+    "img": "images/sky.png"
+  },
+  {
+    "round": 60,
+    "en": "sleep",
+    "ko": "잠, 잠을 자다",
+    "img": "images/sleep.png"
+  },
+  {
+    "round": 61,
+    "en": "slide",
+    "ko": "미끄러지다",
+    "img": "images/slide.png"
+  },
+  {
+    "round": 61,
+    "en": "slow",
+    "ko": "느린",
+    "img": "images/slow.png"
+  },
+  {
+    "round": 61,
+    "en": "smell",
+    "ko": "냄새",
+    "img": "images/smell.png"
+  },
+  {
+    "round": 61,
+    "en": "smile",
+    "ko": "미소",
+    "img": "images/smile.png"
+  },
+  {
+    "round": 61,
+    "en": "smoke",
+    "ko": "연기, 담배 피우다",
+    "img": "images/smoke.png"
+  },
+  {
+    "round": 61,
+    "en": "snow",
+    "ko": "눈, 눈이 내리다",
+    "img": "images/snow.png"
+  },
+  {
+    "round": 61,
+    "en": "so",
+    "ko": "그렇게, 그와 같이, 몹시, 상당히",
+    "img": "images/so.png"
+  },
+  {
+    "round": 61,
+    "en": "soap",
+    "ko": "비누",
+    "img": "images/soap.png"
+  },
+  {
+    "round": 61,
+    "en": "soccer",
+    "ko": "축구",
+    "img": "images/soccer.png"
+  },
+  {
+    "round": 61,
+    "en": "sock",
+    "ko": "양말",
+    "img": "images/sock.png"
+  },
+  {
+    "round": 62,
+    "en": "soft",
+    "ko": "조용한, 차분한, (날씨·기후 등이) 화창한, 따뜻한, 부드러운, 푹신푹신한",
+    "img": "images/soft.png"
+  },
+  {
+    "round": 62,
+    "en": "some",
+    "ko": "얼마간의, 약간의, 대략, ~쯤",
+    "img": "images/some.png"
+  },
+  {
+    "round": 62,
+    "en": "son",
+    "ko": "아들",
+    "img": "images/son.png"
+  },
+  {
+    "round": 62,
+    "en": "song",
+    "ko": "노래",
+    "img": "images/song.png"
+  },
+  {
+    "round": 62,
+    "en": "soon",
+    "ko": "곧, 머지않아",
+    "img": "images/soon.png"
+  },
+  {
+    "round": 62,
+    "en": "sorry",
+    "ko": "가엾은, 미안한, 죄송한",
+    "img": "images/sorry.png"
+  },
+  {
+    "round": 62,
+    "en": "sound",
+    "ko": "소리, 음, ~인 것 같다, 건전한, 건강한",
+    "img": "images/sound.png"
+  },
+  {
+    "round": 62,
+    "en": "soup",
+    "ko": "수프",
+    "img": "images/soup.png"
+  },
+  {
+    "round": 62,
+    "en": "south",
+    "ko": "남쪽",
+    "img": "images/south.png"
+  },
+  {
+    "round": 62,
+    "en": "space",
+    "ko": "우주, 공간, 틈",
+    "img": "images/space.png"
+  },
+  {
+    "round": 63,
+    "en": "speak",
+    "ko": "말하다",
+    "img": "images/speak.png"
+  },
+  {
+    "round": 63,
+    "en": "speed",
+    "ko": "속도, 속력",
+    "img": "images/speed.png"
+  },
+  {
+    "round": 63,
+    "en": "spell",
+    "ko": "(철자를) 쓰다",
+    "img": "images/spell.png"
+  },
+  {
+    "round": 63,
+    "en": "spend",
+    "ko": "(돈·시간을) 쓰다, 소비하다",
+    "img": "images/spend.png"
+  },
+  {
+    "round": 63,
+    "en": "spoon",
+    "ko": "숟가락",
+    "img": "images/spoon.png"
+  },
+  {
+    "round": 63,
+    "en": "sport",
+    "ko": "운동",
+    "img": "images/sport.png"
+  },
+  {
+    "round": 63,
+    "en": "spring",
+    "ko": "봄",
+    "img": "images/spring.png"
+  },
+  {
+    "round": 63,
+    "en": "square",
+    "ko": "정사각형, (숫자의) 제곱, 광장",
+    "img": "images/square.png"
+  },
+  {
+    "round": 63,
+    "en": "stair",
+    "ko": "계단",
+    "img": "images/stair.png"
+  },
+  {
+    "round": 63,
+    "en": "stamp",
+    "ko": "우표",
+    "img": "images/stamp.png"
+  },
+  {
+    "round": 64,
+    "en": "stand",
+    "ko": "서다, 참다, 견디다",
+    "img": "images/stand.png"
+  },
+  {
+    "round": 64,
+    "en": "star",
+    "ko": "별, 인기인, 유명인사, (호텔이나 식당의) 등급 표시",
+    "img": "images/star.png"
+  },
+  {
+    "round": 64,
+    "en": "start",
+    "ko": "출발하다, 떠나다, 시작하다",
+    "img": "images/start.png"
+  },
+  {
+    "round": 64,
+    "en": "station",
+    "ko": "정거장",
+    "img": "images/station.png"
+  },
+  {
+    "round": 64,
+    "en": "stay",
+    "ko": "남다, 머무르다",
+    "img": "images/stay.png"
+  },
+  {
+    "round": 64,
+    "en": "steam",
+    "ko": "증기",
+    "img": "images/steam.png"
+  },
+  {
+    "round": 64,
+    "en": "step",
+    "ko": "걸음, 스텝",
+    "img": "images/step.png"
+  },
+  {
+    "round": 64,
+    "en": "stick",
+    "ko": "막대기",
+    "img": "images/stick.png"
+  },
+  {
+    "round": 64,
+    "en": "stone",
+    "ko": "돌",
+    "img": "images/stone.png"
+  },
+  {
+    "round": 64,
+    "en": "stop",
+    "ko": "멈추다, 정류장",
+    "img": "images/stop.png"
+  },
+  {
+    "round": 65,
+    "en": "store",
+    "ko": "가게, 상점, ~을 저장하다, 쌓아 두다",
+    "img": "images/store.png"
+  },
+  {
+    "round": 65,
+    "en": "storm",
+    "ko": "폭풍우",
+    "img": "images/storm.png"
+  },
+  {
+    "round": 65,
+    "en": "story",
+    "ko": "이야기",
+    "img": "images/story.png"
+  },
+  {
+    "round": 65,
+    "en": "stove",
+    "ko": "난로, 화덕",
+    "img": "images/stove.png"
+  },
+  {
+    "round": 65,
+    "en": "straight",
+    "ko": "곧은, 똑바른, 곧장",
+    "img": "images/straight.png"
+  },
+  {
+    "round": 65,
+    "en": "strange",
+    "ko": "이상한",
+    "img": "images/strange.png"
+  },
+  {
+    "round": 65,
+    "en": "strawberry",
+    "ko": "딸기",
+    "img": "images/strawberry.png"
+  },
+  {
+    "round": 65,
+    "en": "street",
+    "ko": "거리, 길",
+    "img": "images/street.png"
+  },
+  {
+    "round": 65,
+    "en": "strike",
+    "ko": "~을 치다, 때리다, ~을 두들기다, 파업",
+    "img": "images/strike.png"
+  },
+  {
+    "round": 65,
+    "en": "strong",
+    "ko": "힘센, 강한, 단단한, 유능한",
+    "img": "images/strong.png"
+  },
+  {
+    "round": 66,
+    "en": "student",
+    "ko": "학생",
+    "img": "images/student.png"
+  },
+  {
+    "round": 66,
+    "en": "study",
+    "ko": "공부하다, 조사하다, 관찰하다",
+    "img": "images/study.png"
+  },
+  {
+    "round": 66,
+    "en": "stupid",
+    "ko": "어리석은, 바보 같은",
+    "img": "images/stupid.png"
+  },
+  {
+    "round": 66,
+    "en": "subway",
+    "ko": "지하철",
+    "img": "images/subway.png"
+  },
+  {
+    "round": 66,
+    "en": "sugar",
+    "ko": "설탕",
+    "img": "images/sugar.png"
+  },
+  {
+    "round": 66,
+    "en": "summer",
+    "ko": "여름",
+    "img": "images/summer.png"
+  },
+  {
+    "round": 66,
+    "en": "sun",
+    "ko": "태양, 해",
+    "img": "images/sun.png"
+  },
+  {
+    "round": 66,
+    "en": "supermarket",
+    "ko": "슈퍼마켓",
+    "img": "images/supermarket.png"
+  },
+  {
+    "round": 66,
+    "en": "supper",
+    "ko": "저녁식사",
+    "img": "images/supper.png"
+  },
+  {
+    "round": 66,
+    "en": "sure",
+    "ko": "~을 확신하는",
+    "img": "images/sure.png"
+  },
+  {
+    "round": 67,
+    "en": "surprise",
+    "ko": "놀람, 놀라운 일, 놀라게 하다, ~에 놀라다",
+    "img": "images/surprise.png"
+  },
+  {
+    "round": 67,
+    "en": "sweater",
+    "ko": "스웨터",
+    "img": "images/sweater.png"
+  },
+  {
+    "round": 67,
+    "en": "sweet",
+    "ko": "달콤한, 맛있는",
+    "img": "images/sweet.png"
+  },
+  {
+    "round": 67,
+    "en": "swim",
+    "ko": "헤엄치다, 수영하다",
+    "img": "images/swim.png"
+  },
+  {
+    "round": 67,
+    "en": "swing",
+    "ko": "그네, 흔들리다",
+    "img": "images/swing.png"
+  },
+  {
+    "round": 67,
+    "en": "switch",
+    "ko": "스위치, ~을 바꾸다",
+    "img": "images/switch.png"
+  },
+  {
+    "round": 67,
+    "en": "table",
+    "ko": "식탁, 테이블, 표, 목록",
+    "img": "images/table.png"
+  },
+  {
+    "round": 67,
+    "en": "take",
+    "ko": "가져가다, 데려가다, ~을 쥐다, ~을 먹다, 마시다",
+    "img": "images/take.png"
+  },
+  {
+    "round": 67,
+    "en": "talk",
+    "ko": "말하다, 이야기하다",
+    "img": "images/talk.png"
+  },
+  {
+    "round": 67,
+    "en": "tall",
+    "ko": "키가 큰",
+    "img": "images/tall.png"
+  },
+  {
+    "round": 68,
+    "en": "tape",
+    "ko": "(테이프로) ~을 붙이다, 접착용 테이프, 녹음용 테이프",
+    "img": "images/tape.png"
+  },
+  {
+    "round": 68,
+    "en": "taste",
+    "ko": "~을 맛보다, 먹어보다, 맛이 나다, 맛",
+    "img": "images/taste.png"
+  },
+  {
+    "round": 68,
+    "en": "taxi",
+    "ko": "택시",
+    "img": "images/taxi.png"
+  },
+  {
+    "round": 68,
+    "en": "tea",
+    "ko": "차, 홍차",
+    "img": "images/tea.png"
+  },
+  {
+    "round": 68,
+    "en": "teach",
+    "ko": "가르치다",
+    "img": "images/teach.png"
+  },
+  {
+    "round": 68,
+    "en": "team",
+    "ko": "팀, 조",
+    "img": "images/team.png"
+  },
+  {
+    "round": 68,
+    "en": "telephone",
+    "ko": "전화기",
+    "img": "images/telephone.png"
+  },
+  {
+    "round": 68,
+    "en": "television",
+    "ko": "텔레비전",
+    "img": "images/television.png"
+  },
+  {
+    "round": 68,
+    "en": "tell",
+    "ko": "말하다, 이야기하다",
+    "img": "images/tell.png"
+  },
+  {
+    "round": 68,
+    "en": "temple",
+    "ko": "사원, 신전",
+    "img": "images/temple.png"
+  },
+  {
+    "round": 69,
+    "en": "tennis",
+    "ko": "정구, 테니스",
+    "img": "images/tennis.png"
+  },
+  {
+    "round": 69,
+    "en": "test",
+    "ko": "테스트, 시험",
+    "img": "images/test.png"
+  },
+  {
+    "round": 69,
+    "en": "than",
+    "ko": "~보다",
+    "img": "images/than.png"
+  },
+  {
+    "round": 69,
+    "en": "thank",
+    "ko": "~에게 고맙다고 하다",
+    "img": "images/thank.png"
+  },
+  {
+    "round": 69,
+    "en": "that",
+    "ko": "저것, 그것, 저~, 그~",
+    "img": "images/that.png"
+  },
+  {
+    "round": 69,
+    "en": "the",
+    "ko": "그~, 저~, 유일한 사물·대상을 나타낼 때",
+    "img": "images/the.png"
+  },
+  {
+    "round": 69,
+    "en": "then",
+    "ko": "그때, 그 다음에",
+    "img": "images/then.png"
+  },
+  {
+    "round": 69,
+    "en": "there",
+    "ko": "그 곳에, 거기에, (be동사와 함께)~이 있다",
+    "img": "images/there.png"
+  },
+  {
+    "round": 69,
+    "en": "they",
+    "ko": "그들, 그것들",
+    "img": "images/they.png"
+  },
+  {
+    "round": 69,
+    "en": "thick",
+    "ko": "두꺼운",
+    "img": "images/thick.png"
+  },
+  {
+    "round": 70,
+    "en": "thin",
+    "ko": "얇은, 가느다란, 마른",
+    "img": "images/thin.png"
+  },
+  {
+    "round": 70,
+    "en": "thing",
+    "ko": "물건",
+    "img": "images/thing.png"
+  },
+  {
+    "round": 70,
+    "en": "think",
+    "ko": "생각하다",
+    "img": "images/think.png"
+  },
+  {
+    "round": 70,
+    "en": "thirsty",
+    "ko": "목마른",
+    "img": "images/thirsty.png"
+  },
+  {
+    "round": 70,
+    "en": "this",
+    "ko": "이~, 이 사람, 이것",
+    "img": "images/this.png"
+  },
+  {
+    "round": 70,
+    "en": "thousand",
+    "ko": "천(1,000), 천의",
+    "img": "images/thousand.png"
+  },
+  {
+    "round": 70,
+    "en": "through",
+    "ko": "~을 꿰뚫어, ~을 통과하여",
+    "img": "images/through.png"
+  },
+  {
+    "round": 70,
+    "en": "throw",
+    "ko": "던지다, 내던지다",
+    "img": "images/throw.png"
+  },
+  {
+    "round": 70,
+    "en": "thunder",
+    "ko": "천둥",
+    "img": "images/thunder.png"
+  },
+  {
+    "round": 70,
+    "en": "ticket",
+    "ko": "표, 티켓",
+    "img": "images/ticket.png"
+  },
+  {
+    "round": 71,
+    "en": "tie",
+    "ko": "~을 묶다, 매다, 넥타이",
+    "img": "images/tie.png"
+  },
+  {
+    "round": 71,
+    "en": "tiger",
+    "ko": "호랑이",
+    "img": "images/tiger.png"
+  },
+  {
+    "round": 71,
+    "en": "till",
+    "ko": "~할 때까지, ~까지",
+    "img": "images/till.png"
+  },
+  {
+    "round": 71,
+    "en": "time",
+    "ko": "시간, 시각, 곱하기, ~배, ~번",
+    "img": "images/time.png"
+  },
+  {
+    "round": 71,
+    "en": "tired",
+    "ko": "피곤한, 지친, 싫증난, 질린",
+    "img": "images/tired.png"
+  },
+  {
+    "round": 71,
+    "en": "to",
+    "ko": "~에, ~로, ~에게",
+    "img": "images/to.png"
+  },
+  {
+    "round": 71,
+    "en": "today",
+    "ko": "오늘",
+    "img": "images/today.png"
+  },
+  {
+    "round": 71,
+    "en": "together",
+    "ko": "함께, 같이",
+    "img": "images/together.png"
+  },
+  {
+    "round": 71,
+    "en": "tomato",
+    "ko": "토마토",
+    "img": "images/tomato.png"
+  },
+  {
+    "round": 71,
+    "en": "tomorrow",
+    "ko": "내일",
+    "img": "images/tomorrow.png"
+  },
+  {
+    "round": 72,
+    "en": "tonight",
+    "ko": "오늘 밤",
+    "img": "images/tonight.png"
+  },
+  {
+    "round": 72,
+    "en": "too",
+    "ko": "또한, 역시, 너무, 지나치게",
+    "img": "images/too.png"
+  },
+  {
+    "round": 72,
+    "en": "tooth",
+    "ko": "이, 치아",
+    "img": "images/tooth.png"
+  },
+  {
+    "round": 72,
+    "en": "top",
+    "ko": "꼭대기, 한껏, 최고",
+    "img": "images/top.png"
+  },
+  {
+    "round": 72,
+    "en": "touch",
+    "ko": "(손으로) 만지다, ~에 대다",
+    "img": "images/touch.png"
+  },
+  {
+    "round": 72,
+    "en": "town",
+    "ko": "소도시",
+    "img": "images/town.png"
+  },
+  {
+    "round": 72,
+    "en": "toy",
+    "ko": "장난감",
+    "img": "images/toy.png"
+  },
+  {
+    "round": 72,
+    "en": "train",
+    "ko": "기차",
+    "img": "images/train.png"
+  },
+  {
+    "round": 72,
+    "en": "travel",
+    "ko": "여행하다",
+    "img": "images/travel.png"
+  },
+  {
+    "round": 72,
+    "en": "tree",
+    "ko": "나무",
+    "img": "images/tree.png"
+  },
+  {
+    "round": 73,
+    "en": "trip",
+    "ko": "여행",
+    "img": "images/trip.png"
+  },
+  {
+    "round": 73,
+    "en": "truck",
+    "ko": "트럭",
+    "img": "images/truck.png"
+  },
+  {
+    "round": 73,
+    "en": "true",
+    "ko": "진실의, 정말인",
+    "img": "images/true.png"
+  },
+  {
+    "round": 73,
+    "en": "try",
+    "ko": "~을 해보다, 시도하다, 노력하다",
+    "img": "images/try.png"
+  },
+  {
+    "round": 73,
+    "en": "tulip",
+    "ko": "튤립",
+    "img": "images/tulip.png"
+  },
+  {
+    "round": 73,
+    "en": "turn",
+    "ko": "돌다, ~을 돌리다",
+    "img": "images/turn.png"
+  },
+  {
+    "round": 73,
+    "en": "twice",
+    "ko": "두 번, 2회",
+    "img": "images/twice.png"
+  },
+  {
+    "round": 73,
+    "en": "umbrella",
+    "ko": "우산",
+    "img": "images/umbrella.png"
+  },
+  {
+    "round": 73,
+    "en": "uncle",
+    "ko": "아저씨, 삼촌, 숙부",
+    "img": "images/uncle.png"
+  },
+  {
+    "round": 73,
+    "en": "under",
+    "ko": "~의 밑에, (나이, 가격이) ~아래인, ~한 상태인",
+    "img": "images/under.png"
+  },
+  {
+    "round": 74,
+    "en": "understand",
+    "ko": "이해하다, 알아듣다",
+    "img": "images/understand.png"
+  },
+  {
+    "round": 74,
+    "en": "until",
+    "ko": "~까지",
+    "img": "images/until.png"
+  },
+  {
+    "round": 74,
+    "en": "up",
+    "ko": "위로, 위쪽으로",
+    "img": "images/up.png"
+  },
+  {
+    "round": 74,
+    "en": "use",
+    "ko": "~을 사용하다, 쓰다",
+    "img": "images/use.png"
+  },
+  {
+    "round": 74,
+    "en": "usual",
+    "ko": "늘 하는, 흔히 있는",
+    "img": "images/usual.png"
+  },
+  {
+    "round": 74,
+    "en": "vacation",
+    "ko": "방학, 휴가",
+    "img": "images/vacation.png"
+  },
+  {
+    "round": 74,
+    "en": "vegetable",
+    "ko": "채소, 야채",
+    "img": "images/vegetable.png"
+  },
+  {
+    "round": 74,
+    "en": "very",
+    "ko": "아주, 대단히",
+    "img": "images/very.png"
+  },
+  {
+    "round": 74,
+    "en": "video",
+    "ko": "비디오",
+    "img": "images/video.png"
+  },
+  {
+    "round": 74,
+    "en": "village",
+    "ko": "마을",
+    "img": "images/village.png"
+  },
+  {
+    "round": 75,
+    "en": "violin",
+    "ko": "바이올린",
+    "img": "images/violin.png"
+  },
+  {
+    "round": 75,
+    "en": "visit",
+    "ko": "방문하다",
+    "img": "images/visit.png"
+  },
+  {
+    "round": 75,
+    "en": "wait",
+    "ko": "기다리다",
+    "img": "images/wait.png"
+  },
+  {
+    "round": 75,
+    "en": "wake",
+    "ko": "잠이 깨다, ~을 깨우다",
+    "img": "images/wake.png"
+  },
+  {
+    "round": 75,
+    "en": "walk",
+    "ko": "걷기, 산책, 걷다",
+    "img": "images/walk.png"
+  },
+  {
+    "round": 75,
+    "en": "wall",
+    "ko": "벽, 담",
+    "img": "images/wall.png"
+  },
+  {
+    "round": 75,
+    "en": "want",
+    "ko": "~을 원하다, ~하고 싶다",
+    "img": "images/want.png"
+  },
+  {
+    "round": 75,
+    "en": "war",
+    "ko": "전쟁",
+    "img": "images/war.png"
+  },
+  {
+    "round": 75,
+    "en": "warm",
+    "ko": "따뜻한",
+    "img": "images/warm.png"
+  },
+  {
+    "round": 75,
+    "en": "wash",
+    "ko": "~을 씻다",
+    "img": "images/wash.png"
+  },
+  {
+    "round": 76,
+    "en": "waste",
+    "ko": "낭비하다",
+    "img": "images/waste.png"
+  },
+  {
+    "round": 76,
+    "en": "watch",
+    "ko": "지켜보다, 구경하다, 손목시계",
+    "img": "images/watch.png"
+  },
+  {
+    "round": 76,
+    "en": "water",
+    "ko": "물",
+    "img": "images/water.png"
+  },
+  {
+    "round": 76,
+    "en": "way",
+    "ko": "길, 도로, 방법, 방식",
+    "img": "images/way.png"
+  },
+  {
+    "round": 76,
+    "en": "we",
+    "ko": "우리",
+    "img": "images/we.png"
+  },
+  {
+    "round": 76,
+    "en": "weak",
+    "ko": "약한, 힘없는, 허약한",
+    "img": "images/weak.png"
+  },
+  {
+    "round": 76,
+    "en": "wear",
+    "ko": "(옷을) 입다",
+    "img": "images/wear.png"
+  },
+  {
+    "round": 76,
+    "en": "weather",
+    "ko": "날씨, 기후",
+    "img": "images/weather.png"
+  },
+  {
+    "round": 76,
+    "en": "week",
+    "ko": "주, 1주일",
+    "img": "images/week.png"
+  },
+  {
+    "round": 76,
+    "en": "welcome",
+    "ko": "환영하다",
+    "img": "images/welcome.png"
+  },
+  {
+    "round": 77,
+    "en": "well",
+    "ko": "잘, 훌륭하게",
+    "img": "images/well.png"
+  },
+  {
+    "round": 77,
+    "en": "west",
+    "ko": "서쪽",
+    "img": "images/west.png"
+  },
+  {
+    "round": 77,
+    "en": "wet",
+    "ko": "젖은",
+    "img": "images/wet.png"
+  },
+  {
+    "round": 77,
+    "en": "what",
+    "ko": "무엇, 무슨",
+    "img": "images/what.png"
+  },
+  {
+    "round": 77,
+    "en": "when",
+    "ko": "~할 때, 언제",
+    "img": "images/when.png"
+  },
+  {
+    "round": 77,
+    "en": "where",
+    "ko": "~곳, 어디에",
+    "img": "images/where.png"
+  },
+  {
+    "round": 77,
+    "en": "which",
+    "ko": "어느 것, 어느~",
+    "img": "images/which.png"
+  },
+  {
+    "round": 77,
+    "en": "white",
+    "ko": "흰색의",
+    "img": "images/white.png"
+  },
+  {
+    "round": 77,
+    "en": "who",
+    "ko": "누구",
+    "img": "images/who.png"
+  },
+  {
+    "round": 77,
+    "en": "why",
+    "ko": "왜, 어째서",
+    "img": "images/why.png"
+  },
+  {
+    "round": 78,
+    "en": "wide",
+    "ko": "폭이 넓은",
+    "img": "images/wide.png"
+  },
+  {
+    "round": 78,
+    "en": "will",
+    "ko": "~일 것이다, ~하겠다",
+    "img": "images/will.png"
+  },
+  {
+    "round": 78,
+    "en": "win",
+    "ko": "이기다",
+    "img": "images/win.png"
+  },
+  {
+    "round": 78,
+    "en": "wind",
+    "ko": "바람, ~을 감다",
+    "img": "images/wind.png"
+  },
+  {
+    "round": 78,
+    "en": "window",
+    "ko": "창문",
+    "img": "images/window.png"
+  },
+  {
+    "round": 78,
+    "en": "wing",
+    "ko": "(새·곤충 등의) 날개",
+    "img": "images/wing.png"
+  },
+  {
+    "round": 78,
+    "en": "winter",
+    "ko": "겨울",
+    "img": "images/winter.png"
+  },
+  {
+    "round": 78,
+    "en": "with",
+    "ko": "~와 함께, ~으로, ~을 써서",
+    "img": "images/with.png"
+  },
+  {
+    "round": 78,
+    "en": "woman",
+    "ko": "여자, 여성",
+    "img": "images/woman.png"
+  },
+  {
+    "round": 78,
+    "en": "wonder",
+    "ko": "놀랄 만한 일, 궁금해 하다",
+    "img": "images/wonder.png"
+  },
+  {
+    "round": 79,
+    "en": "wood",
+    "ko": "목재, 재목",
+    "img": "images/wood.png"
+  },
+  {
+    "round": 79,
+    "en": "word",
+    "ko": "단어, 낱말",
+    "img": "images/word.png"
+  },
+  {
+    "round": 79,
+    "en": "work",
+    "ko": "일, 일하다, 근무하다, 직장, 사무실",
+    "img": "images/work.png"
+  },
+  {
+    "round": 79,
+    "en": "world",
+    "ko": "세계, 세상",
+    "img": "images/world.png"
+  },
+  {
+    "round": 79,
+    "en": "write",
+    "ko": "쓰다",
+    "img": "images/write.png"
+  },
+  {
+    "round": 79,
+    "en": "wrong",
+    "ko": "나쁜, 잘못된, 틀린",
+    "img": "images/wrong.png"
+  },
+  {
+    "round": 79,
+    "en": "Xmas",
+    "ko": "Christmas의 축약형",
+    "img": "images/Xmas.png"
+  },
+  {
+    "round": 79,
+    "en": "xylophone",
+    "ko": "실로폰",
+    "img": "images/xylophone.png"
+  },
+  {
+    "round": 79,
+    "en": "yeah",
+    "ko": "네",
+    "img": "images/yeah.png"
+  },
+  {
+    "round": 79,
+    "en": "year",
+    "ko": "해, 년, (나이) ~살",
+    "img": "images/year.png"
+  },
+  {
+    "round": 80,
+    "en": "yellow",
+    "ko": "노란색, 노란색의",
+    "img": "images/yellow.png"
+  },
+  {
+    "round": 80,
+    "en": "yes",
+    "ko": "네, 그렇습니다",
+    "img": "images/yes.png"
+  },
+  {
+    "round": 80,
+    "en": "yesterday",
+    "ko": "어제",
+    "img": "images/yesterday.png"
+  },
+  {
+    "round": 80,
+    "en": "yet",
+    "ko": "아직, 벌써",
+    "img": "images/yet.png"
+  },
+  {
+    "round": 80,
+    "en": "you",
+    "ko": "너, 너희들, 당신(들), (일般적으로) 사람들",
+    "img": "images/you.png"
+  },
+  {
+    "round": 80,
+    "en": "young",
+    "ko": "젊은, 어린",
+    "img": "images/young.png"
+  },
+  {
+    "round": 80,
+    "en": "zero",
+    "ko": "영(0), 영의",
+    "img": "images/zero.png"
+  },
+  {
+    "round": 80,
+    "en": "zoo",
+    "ko": "동물원",
+    "img": "images/zoo.png"
+  }
+]
