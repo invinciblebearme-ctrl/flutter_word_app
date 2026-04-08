@@ -1,5 +1,12 @@
 # Word Challenge Flutter (Starter)
 
+##업데이트
+- main 은 단어 깜빡이 기능만 구성
+- feature/scamble-update는 스크램블 기능 구현
+
+
+
+
 이 프로젝트는 업로드하신 웹앱(index.html/index.js/indexList.json)의 구조를 분석해 **Flutter**로 변환한 최소 동작 샘플입니다.
 
 ## 포함 내용
