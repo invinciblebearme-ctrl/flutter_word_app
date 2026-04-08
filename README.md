@@ -1,6 +1,6 @@
 # Word Challenge Flutter (Starter)
 
-##업데이트
+## 업데이트
 - main 은 단어 깜빡이 기능만 구성
 - feature/scamble-update는 스크램블 기능 구현
 
